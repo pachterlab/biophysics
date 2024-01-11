@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Homepage for Pachter Lab Biophysics Tools
+=========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+General description and API with diagram.
+
+Table with tools and their details.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -20,3 +19,4 @@ Contents
 
    usage
    api
+   packages
