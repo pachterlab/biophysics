@@ -5,8 +5,8 @@ General description and API with diagram.
 
 Table with tools and their details.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Keeping :doc:`usage` section here as an example page for now, and this
+call to a subsection, :ref:`installation`.
 
 .. note::
 
@@ -17,6 +17,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   usage 
    packages
+   foundations
+   contributions
+   choose
