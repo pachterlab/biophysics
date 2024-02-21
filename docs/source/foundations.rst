@@ -1,9 +1,10 @@
 Foundations of Biophysical Modeling
 ===================================
 
-.. _installation:
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-Installation
-------------
-
-Literature tree or dropdown with relevant papers, including our approaches
+   section1
+   section2
+   ...
