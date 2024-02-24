@@ -2,14 +2,9 @@ Foundations of Biophysical Modeling
 ===================================
 
 :::{dropdown} Experimental Work for Transcriptional Noise/Processing
-:open:
-
-:::{dropdown} Experimental Work for Transcriptional Noise/Processing
-:open:
-Bursty Transcription Experiments
-
-
-Here are some key studies related to bursty transcription experiments:
+:::
+   :::{dropdown} Bursty Transcription Experiments
+   Here are some key studies related to bursty transcription experiments:
 
 - **2005** - Real-time kinetics of gene activity in individual bacteria
   `Read the paper <https://doi.org/10.1016/j.cell.2005.09.031>`_
@@ -25,7 +20,12 @@ Here are some key studies related to bursty transcription experiments:
 
 - **2012** - Transcriptional burst frequency and burst size are equally modulated across the human genome
   `Read the paper <https://doi.org/10.1073/pnas.1213530109>`_
+   :::
 
+:::{dropdown} Computation of Molecular, Cellular, and Transcriptional Dynamics
 :::
 
-:::
+
+
+
+
