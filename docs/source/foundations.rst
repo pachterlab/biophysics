@@ -1,16 +1,13 @@
 Foundations of Biophysical Modeling
 ===================================
 
-.. dropdown:: Experimental Work for Transcriptional Noise/Processing
-   :caption: Experimental Work for Transcriptional Noise/Processing
+:::{dropdown} Experimental Work for Transcriptional Noise/Processing
+:open:
 
-   .. toctree::
-      :maxdepth: 1
-
-      bursty_transcription_experiments
-
+:::{dropdown} Experimental Work for Transcriptional Noise/Processing
+:open:
 Bursty Transcription Experiments
----------------------------------
+
 
 Here are some key studies related to bursty transcription experiments:
 
@@ -29,3 +26,6 @@ Here are some key studies related to bursty transcription experiments:
 - **2012** - Transcriptional burst frequency and burst size are equally modulated across the human genome
   `Read the paper <https://doi.org/10.1073/pnas.1213530109>`_
 
+:::
+
+:::
