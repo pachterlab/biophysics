@@ -5,7 +5,8 @@ General diagram of biophysics approach and where we fit in.
 
 Below is a table of the current tools for biophysical modeling of high-throughput genomics data, alongside the major features and data types each method handles.
 
-To see more details about the available methods in each package, refer to :doc:`packages.
+To see more details about the available methods in each package, refer to :doc:`packages` or determine which tool is best for your data using :doc:`choose`.
+
 
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 | Tool                          | Resolution | Modalities | Steady State? | Technical Noise? | Language | Experimental Technology |
@@ -20,8 +21,8 @@ To see more details about the available methods in each package, refer to :doc:`
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 
 
-Keeping :doc:`packages` section here as an example page for now, and this
-call to a subsection, :ref:`installation`.
+You can also explore the literature foundation for biophysical modeling of transcription :doc:`foundations`, and our contributions to this literature at :doc:`contributions`.
+
 
 .. note::
 
