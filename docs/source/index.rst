@@ -1,24 +1,26 @@
 Homepage for Pachter Lab Biophysics Tools
 =========================================
 
-General description and API with diagram.
+General diagram of biophysics approach and where we fit in.
 
-Table with tools and their details.
+Below is a table of the current tools for biophysical modeling of high-throughput genomics data, alongside the major features and data types each method handles.
 
-+------------+---------------+------------------+----------+-------------------------+-------------------------------+
-| Resolution | Steady State? | Technical Noise? | Language | Experimental Technology | Tool                          |
-+============+===============+==================+==========+=========================+===============================+
-| gene       | yes           | yes              | Python   | Need UMIs               | Monod: :ref:`packages`        |
-+------------+---------------+------------------+----------+-------------------------+-------------------------------+
-| cell/gene  | yes           | yes              | Python   | Need UMIs               | biVI: :ref:`packages`         |
-+------------+---------------+------------------+----------+-------------------------+-------------------------------+
-| gene       | no            | no               | Python   | Need UMIs               | Process Time: :ref:`packages` |
-+------------+---------------+------------------+----------+-------------------------+-------------------------------+
-| gene       | yes           | yes              | Python   | Need UMIs               | Spatial: :ref:`packages`      |
-+------------+---------------+------------------+----------+-------------------------+-------------------------------+
+To see more details about the available methods in each package, refer to :doc:`packages.
+
++-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
+| Tool                          | Resolution | Modalities | Steady State? | Technical Noise? | Language | Experimental Technology |
++===============================+============+============+===============+==================+==========+=========================+
+| Monod: :ref:`packages`        | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   | Need UMIs               |
++-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
+| biVI: :ref:`packages`         | cell/gene  | U/S RNA    | yes           | coming soon      | Python   | Need UMIs               |
++-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
+| Process Time: :ref:`packages` | gene       | U/S RNA    | no            | no               | Python   | Need UMIs               |
++-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
+| Spatial: :ref:`packages`      | gene       | S RNA      | yes           | yes              | Python   | Need UMIs               |
++-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 
 
-Keeping :doc:`usage` section here as an example page for now, and this
+Keeping :doc:`packages` section here as an example page for now, and this
 call to a subsection, :ref:`installation`.
 
 .. note::
@@ -30,7 +32,6 @@ Contents
 
 .. toctree::
 
-   usage 
    packages
    foundations
    contributions
