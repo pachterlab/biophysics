@@ -35,10 +35,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 # -- Enable dropdown
-extensions = ["sphinx_design"]
-html_theme_options = {
-    ...
-    'navigation_with_keys': True,
-    ...
-}
 
