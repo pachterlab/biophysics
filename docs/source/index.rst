@@ -21,7 +21,7 @@ To see more details about the available methods in each package, refer to :doc:`
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 
 
-You can also explore the literature foundation for biophysical modeling of transcription :doc:`foundations`, and our contributions to this literature at :doc:`contributions`.
+You can also explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and our publications in this domain at :doc:`contributions`.
 
 
 .. note::
