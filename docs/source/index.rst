@@ -3,9 +3,9 @@ Homepage for Pachter Lab Biophysics Tools
 
 General diagram of biophysics approach and where we fit in.
 
-Below is a table of the current tools for biophysical modeling of high-throughput genomics data, alongside the major features and data types each method handles.
-
-To see more details about the available methods in each package, refer to :doc:`packages` or determine which tool is best for your data using :doc:`choose`.
+Table of tools
+---------------
+Below is a table of the current tools for biophysical modeling of high-throughput genomics data. The main features and input data types are listed across the columns.
 
 
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
@@ -17,23 +17,19 @@ To see more details about the available methods in each package, refer to :doc:`
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 | Process Time: :ref:`packages` | gene       | U/S RNA    | no            | no               | Python   | Need UMIs               |
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
-| Spatial: :ref:`packages`      | gene       | S RNA      | yes           | yes              | Python   | Need UMIs               |
+| Spatial: coming soon          | gene       | S RNA      | yes           | yes              | Python   | Need UMIs               |
 +-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
 
+**For more details on the available methods see** :doc:`packages`
 
-You can also explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and our publications in this domain at :doc:`contributions`.
+Not sure which tool is best for your data? See :doc:`choose`.
+
+Foundational Literature
+-----------------------
+You can also explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and the lab's publications in this domain at :doc:`contributions`.
 
 
 .. note::
 
    This project is under active development.
 
-Contents
---------
-
-.. toctree::
-
-   packages
-   foundations
-   contributions
-   choose
