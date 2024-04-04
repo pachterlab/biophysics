@@ -6,19 +6,22 @@ General diagram of biophysics approach and where we fit in.
 Table of tools
 ---------------
 Below is a table of the current tools for biophysical modeling of high-throughput genomics data. The main features and input data types are listed across the columns.
+All methods require data with UMIs (molecular count data).
 
 
-+-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
-| Tool                          | Resolution | Modalities | Steady State? | Technical Noise? | Language | Experimental Technology |
-+===============================+============+============+===============+==================+==========+=========================+
-| Monod: :ref:`packages`        | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   | Need UMIs               |
-+-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
-| biVI: :ref:`packages`         | cell/gene  | U/S RNA    | yes           | coming soon      | Python   | Need UMIs               |
-+-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
-| Process Time: :ref:`packages` | gene       | U/S RNA    | no            | no               | Python   | Need UMIs               |
-+-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
-| Spatial: coming soon          | gene       | S RNA      | yes           | yes              | Python   | Need UMIs               |
-+-------------------------------+------------+------------+---------------+------------------+----------+-------------------------+
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
+| Tool                          | Task               | Resolution | Modalities | Steady State? | Technical Noise? | Language |
++===============================+====================+============+============+===============+==================+==========+
+| Monod: :ref:`packages`        |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
+| biVI: :ref:`packages`         |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
+| meK-Means: :ref:`packages`    |Clustering          | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
+| Chronocell:   :ref:`packages` |Trajectory Inference| gene       | U/S RNA    | no            | no               | Python   |
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
+| Spatial: coming soon          |Parameter Inference | gene       | S RNA      | yes           | yes              | Python   |
++-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 
 **For more details on the available methods see** :doc:`packages`
 
