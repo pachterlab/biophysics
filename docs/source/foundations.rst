@@ -15,9 +15,8 @@ Foundations of Biophysical Modeling
 
 
 .. tabbed:: Computation of Molecular, Cellular, and Transcriptional Dynamics 
-   .. dropdown:: FSP solvers
+   	.. dropdown:: FSP solvers
 	   2006 - The finite state projection algorithm for the solution of the chemical master equation - https://doi.org/10.1063/1.2145882
-
 	.. dropdown:: Analytical approaches
 	   2012 - Consequences of mRNA transport on stochastic variability in protein levels - https://doi.org/10.1016/j.bpj.2012.07.015
 	
