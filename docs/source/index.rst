@@ -29,10 +29,19 @@ Not sure which tool is best for your data? See :doc:`choose`.
 
 Foundational Literature
 -----------------------
-You can also explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and the lab's publications at :doc:`contributions`.
 
+Explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and the lab's publications at :doc:`contributions`.
+
+
+Contents
+--------
 
 .. toctree::
+
+   packages
+   foundations
+   contributions
+   choose
 
 
 
