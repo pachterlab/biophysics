@@ -11,5 +11,4 @@ Literature citations for papers relevant to our packages, methods, and approach
    contributions_parameter_inference.rst
    contributions_clustering.rst
    contributions_trajectory_inference.rst
-   contributions_noise_bias.rst
    
