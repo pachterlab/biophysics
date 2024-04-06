@@ -2,15 +2,15 @@
 Model Definition (+ noise)
 =====
 
-* Transient and delay chemical master equations - G. Gorin, S. Yoshida, L. Pachter, bioRxiv, 2022.10. 17.512599, 2022  
+* `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
 
 Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems.
 
-* Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments - G. Gorin, JJ. Vastola, M. Fang, L. Pachter, Nature Communications 13, 7620, 2022  
+* `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, L. Pachter  
 
 Proposes a new modeling approach for transcriptional noise, enhancing the interpretability and utility of single-molecule quantification experiments.
 
-* Modeling bursty transcription and splicing with the chemical master equation** - G. Gorin, L. Pachter, Biophysical Journal 121 (6), 1056-1069, 2022  
+* `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, L. Pachter
 
 Develops a chemical master equation framework to model the bursty nature of transcription and splicing processes.
 
