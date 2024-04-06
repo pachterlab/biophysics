@@ -4,9 +4,9 @@ Clustering
 
 * `The specious art of single-cell genomics <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288>`_ - T. Chari, L. Pachter
 
-Exploring problems with low-dimensional embeddings.
+Explores problems with low-dimensional embeddings.
 
 * `Biophysically Interpretable Inference of Cell Types from Multimodal Sequencing Data <https://doi.org/10.1101/2023.09.17.558131>`_ - T. Chari, G. Gorin, L. Pachter 
 
-Enabling interpretable and consistent cell cluster determination from multimodal data
+Enables interpretable and consistent cell cluster determination from multimodal data.
 
