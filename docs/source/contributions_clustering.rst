@@ -15,7 +15,7 @@ Clustering
     .. grid-item::  
 
       .. image:: ./figures/specious.png
-                        :width: 250
+                        :width: 150
                         :align: center
                         :alt: Elephant-shaped embeddings
 
