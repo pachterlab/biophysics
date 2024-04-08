@@ -15,4 +15,5 @@ Foundations of Biophysical Modeling
     .. tab-item:: Computational Works
 
         .. dropdown:: 2006 - The finite state projection algorithm for the solution of the chemical master equation
+            
             https://doi.org/10.1063/1.2145882
