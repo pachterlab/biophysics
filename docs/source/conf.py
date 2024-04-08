@@ -42,7 +42,7 @@ epub_show_urls = 'footnote'
 #     ...
 # }
 
-
+#### sphinx ####
 html_static_path = ["_static"]
 html_logo = "_static/logo_wide.svg"
 html_favicon = "_static/logo_square.svg"
@@ -87,5 +87,3 @@ if html_theme == "sphinx_rtd_theme":
 
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 myst_enable_extensions = ["colon_fence", "deflist", "substitution", "html_image"]
-
-
