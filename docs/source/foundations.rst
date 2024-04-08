@@ -7,18 +7,16 @@ Foundations of Biophysical Modeling
 
     .. tab-item:: Experimental Works
 
-        .. dropdown:: Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria
-           :link: https://doi.org/10.1016/j.cell.2005.09.031
+        .. dropdown:: `Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria
+           <https://doi.org/10.1016/j.cell.2005.09.031>`_
 
             .. grid:: 2
 
                 .. grid-item:: Summary
-                    :class: summary
 
                     This is a summary of the work by Golding et al., 2005.
 
-                .. grid-item:: Estimated number of transcripts per cell
-                    :class: estimation
+                .. grid-item-card:: Estimated number of transcripts per cell
 
                     .. image:: figures/2005_Golding.png
                         :width: 10
