@@ -27,7 +27,7 @@ Model Definition (+ noise)
 
             .. grid-item:: Proposes a new modeling approach for transcriptional noise, enhancing the interpretability and utility of single-molecule quantification experiments.
 
-          .. grid-item:: Image
+            .. grid-item:: Image
 
 * `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, L. Pachter
 
