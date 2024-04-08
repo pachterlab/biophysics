@@ -16,7 +16,7 @@ Foundations of Biophysical Modeling
 
                 .. grid-item-card::  Estimated number of transcripts per cell
             
-                    :img-top: figures/2005_Golding.png
+                    :img-top: ./figures/2005_Golding.png
                     :img-alt: Their figure 3A.
             
 
