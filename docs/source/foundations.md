@@ -1,6 +1,5 @@
-====================================
-Foundations of Biophysical Modeling
-====================================
+# Foundations of Biophysical Modeling
+
 
 :::{dropdown} Dropdown title
 Dropdown content
