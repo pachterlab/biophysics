@@ -8,11 +8,10 @@ Clustering
   :align: left
 
 .. grid:: 2
-    :outline:
 
     .. grid-item:: Explores problems with low-dimensional embeddings.
 
-    .. grid-item: |ico1|
+    .. grid-item: hi
             
 
 .. dropdown:: `The specious art of single-cell genomics <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288>`_ - T. Chari, L. Pachter
