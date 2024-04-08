@@ -15,8 +15,8 @@ Foundations of Biophysical Modeling
                 .. grid-item::  
 
                     .. image:: ./figures/2005_Golding.png
-                        :width: 50
-                        :height: 50
+                        :width: 100
+                        :height: 100
                         :align: center
                         :alt: Figure 3A Estimated number of transcripts per cell.
             
