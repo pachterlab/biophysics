@@ -3,7 +3,7 @@ Model Definition (+ noise)
 =====
 
 .. |ico1| image:: figures/transient_CME.png
-  :width: 150
+  :width: 250
   :alt: Elephant-shaped embeddings
 
 
