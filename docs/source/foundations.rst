@@ -6,7 +6,7 @@ Foundations of Biophysical Modeling
 
     .. tab-item:: Experimental Works
 
-        .. dropdown:: [Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria](https://doi.org/10.1016/j.cell.2005.09.031)
+        .. dropdown:: Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria <(https://doi.org/10.1016/j.cell.2005.09.031)>
             
             .. grid:: 2
 
