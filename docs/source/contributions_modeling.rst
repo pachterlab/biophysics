@@ -12,7 +12,10 @@ Model Definition (+ noise)
             
             Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems.  Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems. 
 
-            |ico1|
+            .. image:: figures/transient_CME.png
+              :width: 250
+              :alt: Elephant-shaped embeddings
+              :align: right
 
 
 * `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
