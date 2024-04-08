@@ -10,13 +10,13 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
-extensions = [
+extensions = [ 
+    "sphinx_design",
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'sphinx_panels'
+    'sphinx.ext.intersphinx'
 ]
 
 intersphinx_mapping = {
