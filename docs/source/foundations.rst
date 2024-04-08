@@ -3,6 +3,8 @@ Foundations of Biophysical Modeling
 ====================================
 :::{dropdown} Dropdown title Dropdown content :::
 
+
+
 :::::{tab-set}
 ::::{tab-item} Experimental Work for Transcriptional Noise/Processing
 :::{dropdown} 2005 - Real-time kinetics of gene activity in individual bacteria
