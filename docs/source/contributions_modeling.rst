@@ -16,12 +16,10 @@ Model Definition (+ noise)
                 .. grid-item::  
 
                     .. image:: ./figures/transient_CME.png
-                        :width: 100
+                        :width: 250
                         :align: center
                         :alt: Figure 3A Estimated number of transcripts per cell.
             
-            
-
 
 * `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
 
