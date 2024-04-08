@@ -5,6 +5,7 @@ Clustering
 .. dropdown:: `The specious art of single-cell genomics <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011288>`_ - T. Chari, L. Pachter
 
             Explores problems with low-dimensional embeddings. 
+
             .. image:: figures/specious.png
               :width: 200
               :alt: Elephant-shaped embeddings
