@@ -1,9 +1,11 @@
 ====================================
 Foundations of Biophysical Modeling
 ====================================
-:::{dropdown} Dropdown title 
-Dropdown content 
+
+:::{dropdown} Dropdown title
+Dropdown content
 :::
+
 
 
 
