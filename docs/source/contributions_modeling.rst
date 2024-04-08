@@ -2,6 +2,17 @@
 Model Definition (+ noise)
 =====
 
+.. |ico1| image:: figures/transient_CME.png
+  :width: 150
+  :alt: Elephant-shaped embeddings
+
+
+.. dropdown:: `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
+
+            
+            Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems. |ico1| Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems. 
+
+
 * `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
 
 Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems.
