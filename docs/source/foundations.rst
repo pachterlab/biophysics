@@ -12,14 +12,12 @@ Foundations of Biophysical Modeling
 
                 .. grid-item::  Summary
 
-                .. grid-item::
+                .. grid-item:: Figure 3A Estimated number of transcripts per cell.
 
                     .. image:: ./figures/2005_Golding.png
                         :width: 400
                         :align: center
-                        :alt:
-
-                        Figure 3A Estimated number of transcripts per cell.
+                        :alt: some text
             
 
         .. dropdown:: 2006 - Stochastic mRNA Synthesis in Mammalian Cells
