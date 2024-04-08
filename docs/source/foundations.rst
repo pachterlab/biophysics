@@ -2,6 +2,7 @@
 Foundations of Biophysical Modeling
 ####################################
 
+
 .. tab-set::
 
     .. tab-item:: Experimental Works
@@ -20,8 +21,8 @@ Foundations of Biophysical Modeling
                     :class: estimation
 
                     .. image:: figures/2005_Golding.png
-                        :width: 100
-                        :height: 100
+                        :width: 10
+                        :height: 10
                         :align: center
                         :alt: Their figure 3A.
 
