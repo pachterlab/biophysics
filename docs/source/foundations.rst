@@ -2,34 +2,29 @@
 Foundations of Biophysical Modeling
 ####################################
 
-
 .. tab-set::
 
     .. tab-item:: Experimental Works
 
-        .. dropdown:: `Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria
-           <https://doi.org/10.1016/j.cell.2005.09.031>`_
+        .. dropdown:: `Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria <(https://doi.org/10.1016/j.cell.2005.09.031)>`_
 
             .. grid:: 2
 
-                .. grid-item:: Summary
+                .. grid-item::  Summary
 
-                    This is a summary of the work by Golding et al., 2005.
 
-                .. grid-item-card:: Estimated number of transcripts per cell
+                .. grid-item::  Estimated number of transcripts per cell
 
                     .. image:: figures/2005_Golding.png
-                        :width: 10
-                        :height: 10
+                        :width: 50
+                        :height: 50
                         :align: center
                         :alt: Their figure 3A.
-
-    .. tab-item:: 2006 - Stochastic mRNA Synthesis in Mammalian Cells
+            
 
         .. dropdown:: 2006 - Stochastic mRNA Synthesis in Mammalian Cells
-           :link: https://doi.org/10.1371/journal.pbio.0040309
 
-            This is a summary of the work on Stochastic mRNA Synthesis in Mammalian Cells from 2006.
+            https://doi.org/10.1371/journal.pbio.0040309
 
 
     .. tab-item:: Computational Works
