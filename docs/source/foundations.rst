@@ -10,6 +10,10 @@ Foundations of Biophysical Modeling
 
             https://doi.org/10.1016/j.cell.2005.09.031
 
+        .. dropdown:: 2006 - Stochastic mRNA Synthesis in Mammalian Cells
+
+            https://doi.org/10.1371/journal.pbio.0040309
+
 
 
     .. tab-item:: Computational Works
@@ -17,3 +21,8 @@ Foundations of Biophysical Modeling
         .. dropdown:: 2006 - The finite state projection algorithm for the solution of the chemical master equation
             
             https://doi.org/10.1063/1.2145882
+
+        .. dropdown:: 2012 - Consequences of mRNA transport on stochastic variability in protein levels
+            
+            https://doi.org/10.1016/j.bpj.2012.07.015
+
