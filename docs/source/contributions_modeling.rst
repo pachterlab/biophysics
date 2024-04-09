@@ -72,7 +72,7 @@ bursty_CME.png
 
           .. grid:: 2
 
-            .. grid-item::Differentiates between intrinsic and extrinsic noise in mRNA production using a comprehensive model involving synthesis, export, and degradation.
+            .. grid-item:: Differentiates between intrinsic and extrinsic noise in mRNA production using a comprehensive model involving synthesis, export, and degradation.
 
             .. grid-item::  
 
