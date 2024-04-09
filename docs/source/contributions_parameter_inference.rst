@@ -11,7 +11,7 @@ Parameter Inference
     .. grid-item::  
 
       .. image:: ./figures/biVI.png
-                        :width: 250
+                        :width: 320
                         :align: center
                         :alt: Parameter inference
 
