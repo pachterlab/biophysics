@@ -6,13 +6,13 @@ Trajectory Inference
 
   .. grid:: 2
 
-    .. grid-item::  Proposes a biophysically meaningful alternative to pseudotime, extrapolating between clustering and pseudotime approaches with "process time".
+    .. grid-item::  Proposes a biophysically meaningful alternative to pseudotime, extrapolating between clustering and pseudotime approaches with "process time" using Chronocell.
 
     .. grid-item::  
 
       .. image:: ./figures/process_time.png
                         :width: 250
                         :align: center
-                        :alt: Parameter inference
+                        :alt: Chronocell trajectory model
 
 
