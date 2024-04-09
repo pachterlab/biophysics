@@ -2,6 +2,17 @@
 Trajectory Inference
 =====
 
-* `Trajectory inference from single-cell genomics data with a process time model <https://www.biorxiv.org/content/10.1101/2024.01.26.577510v1>`_
+.. dropdown:: `Trajectory inference from single-cell genomics data with a process time model <https://www.biorxiv.org/content/10.1101/2024.01.26.577510v1>`_ - M. Fang, G. Gorin, L. Pachter
 
-Proposes a biophysically meaningful alternative to pseudotime, extrapolating between clustering and pseudotime approaches with "process time".
+  .. grid:: 2
+
+    .. grid-item::  Proposes a biophysically meaningful alternative to pseudotime, extrapolating between clustering and pseudotime approaches with "process time".
+
+    .. grid-item::  
+
+      .. image:: ./figures/process_time.png
+                        :width: 250
+                        :align: center
+                        :alt: Parameter inference
+
+
