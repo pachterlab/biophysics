@@ -6,7 +6,7 @@ Foundations of Biophysical Modeling: A Literature Review
 
     .. tab-item:: Experimental Works
 
-        .. dropdown:: Golding et al., 2005, Real-time kinetics of gene activity in individual bacteria
+        .. dropdown:: Real-time kinetics of gene activity in individual bacteria, Golding et al., 2005
 
             .. grid:: 2
 
@@ -22,7 +22,7 @@ Foundations of Biophysical Modeling: A Literature Review
                         :alt: some text
             
 
-        .. dropdown:: Raj et al., 2006, Stochastic mRNA Synthesis in Mammalian Cells
+        .. dropdown:: Stochastic mRNA Synthesis in Mammalian Cells, Raj et al., 2006
 
             https://doi.org/10.1371/journal.pbio.0040309
 
