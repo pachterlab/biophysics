@@ -18,7 +18,7 @@ Model Definition (+ noise)
       .. image:: ./figures/transient_CME.png
                         :width: 250
                         :align: center
-                        :alt: Figure 3A Estimated number of transcripts per cell.
+                        :alt: Transcription model diagrams
             
 
 .. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, L. Pachter  
@@ -27,17 +27,58 @@ Model Definition (+ noise)
 
             .. grid-item:: Proposes a new modeling approach for transcriptional noise, enhancing the interpretability and utility of single-molecule quantification experiments.
 
-            .. grid-item:: Image
+            .. grid-item::  
 
-* `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, L. Pachter
+              .. image:: ./figures/int_tractable.png
+                        :width: 250
+                        :align: center
+                        :alt: Model refinement process
 
-Develops a chemical master equation framework to model the bursty nature of transcription and splicing processes.
+.. dropdown::  `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, L. Pachter 
 
-* `Length biases in single-cell RNA sequencing of pre-mRNA <https://doi.org/10.1016%2Fj.bpr.2022.100097>`_ - G. Gorin, L. Pachter 
+          .. grid:: 2
 
-Investigates the length biases present in single-cell RNA sequencing data, particularly in the context of pre-mRNA.
+            .. grid-item:: Develops a chemical master equation framework to model the bursty nature of transcription and splicing processes.
 
-* `Intrinsic and extrinsic noise are distinguishable in a synthesis–export–degradation model of mRNA production <https://doi.org/10.1101/2020.09.25.312868>`_ - G. Gorin, L. Pachter
 
-Differentiates between intrinsic and extrinsic noise in mRNA production using a comprehensive model involving synthesis, export, and degradation.
+            .. grid-item::  
+
+              .. image:: ./figures/bursty_CME.png
+                        :width: 250
+                        :align: center
+                        :alt: Splicing graphs
+
+int_tractable.png
+intr_extr_noise.png
+length_bias.png
+bursty_CME.png
+@CatherineFelce
+
+.. dropdown::  `Length biases in single-cell RNA sequencing of pre-mRNA <https://doi.org/10.1016%2Fj.bpr.2022.100097>`_ - G. Gorin, L. Pachter  
+
+          .. grid:: 2
+
+            .. grid-item:: Investigates the length biases present in single-cell RNA sequencing data, particularly in the context of pre-mRNA.
+
+
+            .. grid-item::  
+
+              .. image:: ./figures/length_bias.png
+                        :width: 250
+                        :align: center
+                        :alt: Mean expression vs gene length
+
+.. dropdown::  `Intrinsic and extrinsic noise are distinguishable in a synthesis–export–degradation model of mRNA production <https://doi.org/10.1101/2020.09.25.312868>`_ - G. Gorin, L. Pachter
+
+          .. grid:: 2
+
+            .. grid-item::Differentiates between intrinsic and extrinsic noise in mRNA production using a comprehensive model involving synthesis, export, and degradation.
+
+            .. grid-item::  
+
+              .. image:: ./figures/intr_extr_noise.png
+                        :width: 300
+                        :align: center
+                        :alt: Transcript production, splicing and decay
+
 
