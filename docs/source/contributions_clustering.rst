@@ -25,9 +25,10 @@ Clustering
 
     .. grid-item::  Enables interpretable and consistent cell cluster determination from multimodal data.
 
-    .. grid-item::  
-
-      Image
+    .. grid-item::  ./figures/meK-Means.png
+                        :width: 150
+                        :align: center
+                        :alt: meK-Means Inference
 
 
 
