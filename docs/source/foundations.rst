@@ -1,5 +1,5 @@
 ####################################
-Foundations of Biophysical Modeling
+Foundations of Biophysical Modeling: A Literature Review
 ####################################
 
 .. tab-set::
@@ -14,10 +14,10 @@ Foundations of Biophysical Modeling
                 
                     Summary of it
 
-                .. grid-item:: Fig 3A estimated number of transcripts per cell.
+                .. grid-item-card:: Fig 3A estimated number of transcripts per cell.
 
                     .. image:: ./figures/2005_Golding.png
-                        :width: 400
+                        :width: 300
                         :align: center
                         :alt: some text
             
