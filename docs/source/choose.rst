@@ -1,26 +1,10 @@
 Choose Your Tool
 ================
 
-See the flowchart below to find the tool that best fits your data. Click the tool boxes to see more details.
+See the flowchart below to find the tool that best fits your data. 
+Underlined tools are currently available for use.
 
-.. figure:: https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/choosetool.drawio.svg
-   :width: 100%
+.. raw:: html
 
-
-Test Cards
-
-.. _cards-clickable:
-
-Cards Clickable
-...............
-
-.. card:: Clickable Card (external)
-    :link: https://example.com
-
-    The entire card can be clicked to navigate to https://example.com.
-
-.. card:: Clickable Card (internal)
-    :link: cards-clickable
-    :link-type: ref
-
-    The entire card can be clicked to navigate to the ``cards`` reference target.
+    <a href="https://biophysics.readthedocs.io/en/latest/packages.html">
+        <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/choosetool_transp.drawio.svg" align="center alt="Flowchart"/></a>
