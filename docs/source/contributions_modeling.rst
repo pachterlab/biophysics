@@ -48,12 +48,6 @@ Model Definition (+ noise)
                         :align: center
                         :alt: Splicing graphs
 
-int_tractable.png
-intr_extr_noise.png
-length_bias.png
-bursty_CME.png
-@CatherineFelce
-
 .. dropdown::  `Length biases in single-cell RNA sequencing of pre-mRNA <https://doi.org/10.1016%2Fj.bpr.2022.100097>`_ - G. Gorin, L. Pachter  
 
           .. grid:: 2
