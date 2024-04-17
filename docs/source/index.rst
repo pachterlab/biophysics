@@ -1,4 +1,4 @@
-Homepage for Pachter Lab Biophysics Tools
+Homepage for Pachter Lab Biophysics
 =========================================
 
 General diagram of biophysics approach and where we fit in.
