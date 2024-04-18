@@ -4,27 +4,19 @@ Our Contributions
 
 Literature citations for papers relevant to our packages, methods, and approach
 
- .. grid:: 4
 
-    .. grid-item-card:: Clickable Card (internal)
+.. card:: Clickable Card (internal)
+   :link: Clustering
+   :link-type: ref
+   Clustering
+
+.. card:: Clickable Card (internal)
        :link: Clustering
        :link-type: ref
 
-
-    .. grid-item-card:: Fig 3A estimated number of transcripts per cell.
-
-        .. image:: ./figures/2005_Golding.png
-            :width: 300
-            :align: center
-            :alt: some text
-
-    .. grid-item-card:: Clickable Card (internal)
-           :link: Clustering
-           :link-type: ref
-
-    .. grid-item-card:: Clickable Card (internal)
-           :link: Clustering
-           :link-type: ref
+.. card:: Clickable Card (internal)
+       :link: Clustering
+       :link-type: ref
 
 
 
