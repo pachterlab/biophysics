@@ -6,21 +6,21 @@ Literature citations for papers relevant to our packages, methods, and approach
 
 .. grid:: 4
 
-   .. grid-item-card:: Clickable Card (internal)
-      :ref: Modeling
+   .. grid-item-card:: Modeling (internal)
+      :ref: `Modeling`
       Modeling
    
-   .. grid-item-card:: Clickable Card (internal)
-       :ref: Parameter Inference
-       :link: Parameter Inference
+   .. grid-item-card:: Parameter Inference
+       :ref: `Parameter Inference`
+       :link: `Parameter Inference`
        :link-type: ref
    
-   .. grid-item-card:: Clickable Card (internal)
-       :link: Clustering
+   .. grid-item-card:: Clustering
+       :link: `Clustering`
        :link-type: ref
    
-   .. grid-item-card:: Clickable Card (internal)
-       :link: Trajectory Inference
+   .. grid-item-card:: Trajectory Inference
+       :link: `Trajectory Inference`
        :link-type: ref
 
 .. card:: Clickable Card (external)
