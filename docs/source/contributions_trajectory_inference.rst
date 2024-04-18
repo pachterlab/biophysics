@@ -1,6 +1,5 @@
-.. _Trajectory Inference:
+.. _trajectoryinference:
 
-=====
 Trajectory Inference
 =====
 
