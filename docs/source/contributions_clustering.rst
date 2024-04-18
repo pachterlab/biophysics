@@ -1,5 +1,5 @@
-.. _Clustering:
-=====
+.. _clustering:
+
 Clustering
 =====
 
