@@ -1,4 +1,4 @@
-.. _Model Definition:
+.. _Modeling:
 =====
 Model Definition (+ noise)
 =====
