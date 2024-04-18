@@ -4,30 +4,30 @@ Our Contributions
 
 Literature citations for papers relevant to our packages, methods, and approach
 
-.. grid:: 4
+.. grid:: 1 2 3 4
 
     .. grid-item-card:: Modeling (internal)
-      :ref: `Modeling`
+      :ref:`Modeling`
       Modeling
    
     .. grid-item-card:: Parameter Inference
-       :ref: `Parameter Inference`
-       :link: `Parameter Inference`
+       :ref:`Parameter Inference`
+       :link:`Parameter Inference`
        :link-type: ref
    
     .. grid-item-card:: Clustering
-       :link: `Clustering`
+       :link:`Clustering`
        :link-type: ref
    
     .. grid-item-card:: Trajectory Inference
-       :link: `Trajectory Inference`
+       :link:`Trajectory Inference`
        :link-type: ref
 
 .. card:: Clickable Card (external)
     :link: https://example.com
 
 :ref:`packages`
-:ref: `Modeling`
+:ref:`Modeling`
 
 .. toctree::
    :maxdepth: 1
