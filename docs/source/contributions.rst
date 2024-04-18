@@ -11,7 +11,7 @@ Literature citations for papers relevant to our packages, methods, and approach
       Modeling
    
     .. grid-item-card:: :ref:`parameterinference`
-       :link: `parameterinference`
+       :link: parameterinference
        :link-type: ref
    
     .. grid-item-card:: Clustering
@@ -19,7 +19,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :link-type:ref
    
     .. grid-item-card:: Trajectory Inference
-       :link:`trajectoryinference`
+       :link: trajectoryinference
        :link-type: ref
 
 .. card:: Clickable Card (external)
