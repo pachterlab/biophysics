@@ -1,4 +1,4 @@
-.. _Parameter Inference:
+.. _parameterinference:
 
 Parameter Inference
 ================================================================= 
