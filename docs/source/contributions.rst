@@ -6,17 +6,25 @@ Literature citations for papers relevant to our packages, methods, and approach
 
 
 .. card:: Clickable Card (internal)
-   :link: Clustering
+   :link: Modeling
    :link-type: ref
-   Clustering
+   Modeling
 
 .. card:: Clickable Card (internal)
-       :link: Clustering
-       :link-type: ref
+    :link: Parameter Inference
+    :link-type: ref
 
 .. card:: Clickable Card (internal)
-       :link: Clustering
-       :link-type: ref
+    :link: Clustering
+    :link-type: ref
+
+.. card:: Clickable Card (internal)
+    :link: Trajectory Inference
+    :link-type: ref
+
+.. card:: Clickable Card (external)
+    :link: https://example.com
+
 
 
 
