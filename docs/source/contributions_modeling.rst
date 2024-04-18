@@ -1,5 +1,5 @@
-.. _Modeling:
-=====
+.. _modeling:
+
 Model Definition (+ noise)
 =====
 
