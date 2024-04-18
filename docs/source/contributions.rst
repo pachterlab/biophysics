@@ -10,14 +10,13 @@ Literature citations for papers relevant to our packages, methods, and approach
       :ref:`modeling`
       Modeling
    
-    .. grid-item-card:: Parameter Inference
-       :ref:`parameterinference`
-       :link:`parameterinference`
+    .. grid-item-card:: :ref:`parameterinference`
+       :link: `parameterinference`
        :link-type: ref
    
     .. grid-item-card:: Clustering
-       :link:`clustering`
-       :link-type: ref
+       :link:clustering
+       :link-type:ref
    
     .. grid-item-card:: Trajectory Inference
        :link:`trajectoryinference`
