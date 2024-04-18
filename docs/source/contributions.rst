@@ -4,23 +4,24 @@ Our Contributions
 
 Literature citations for papers relevant to our packages, methods, and approach
 
+.. grid:: 4
 
-.. card:: Clickable Card (internal)
-   :link: Modeling
-   :link-type: ref
-   Modeling
-
-.. card:: Clickable Card (internal)
-    :link: Parameter Inference
-    :link-type: ref
-
-.. card:: Clickable Card (internal)
-    :link: Clustering
-    :link-type: ref
-
-.. card:: Clickable Card (internal)
-    :link: Trajectory Inference
-    :link-type: ref
+   .. grid-item-card:: Clickable Card (internal)
+      :ref: Modeling
+      Modeling
+   
+   .. grid-item-card:: Clickable Card (internal)
+       :ref: Parameter Inference
+       :link: Parameter Inference
+       :link-type: ref
+   
+   .. grid-item-card:: Clickable Card (internal)
+       :link: Clustering
+       :link-type: ref
+   
+   .. grid-item-card:: Clickable Card (internal)
+       :link: Trajectory Inference
+       :link-type: ref
 
 .. card:: Clickable Card (external)
     :link: https://example.com
