@@ -4,10 +4,10 @@ Our Contributions
 
 Literature citations for papers relevant to our packages, methods, and approach
 
- .. grid:: 2
+ .. grid:: 4
 
     .. grid-item-card:: Clickable Card (internal)
-       :link: contributions_modeling.rst
+       :link: Clustering
        :link-type: ref
 
 
@@ -17,6 +17,16 @@ Literature citations for papers relevant to our packages, methods, and approach
             :width: 300
             :align: center
             :alt: some text
+
+    .. grid-item-card:: Clickable Card (internal)
+           :link: Clustering
+           :link-type: ref
+
+    .. grid-item-card:: Clickable Card (internal)
+           :link: Clustering
+           :link-type: ref
+
+
 
 .. toctree::
    :maxdepth: 1
