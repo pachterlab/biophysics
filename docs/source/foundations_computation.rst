@@ -3,12 +3,12 @@
 Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
 
-.. dropdown:: et al. Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
+.. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
             .. grid:: 2
 
                 .. grid-item:: 
-                    Finite states
+                    This article introduces the finite state projection (FSP) method to directly solves or approximates the solution of the chemical master equation.
                 
                     
 
