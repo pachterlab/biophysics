@@ -9,7 +9,7 @@ Here we list a few papaer on solving chemical master equation.
             .. grid:: 2
 
                 .. grid-item:: 
-                    This article introduces the finite state projection (FSP) method to directly solves or approximates the solution of the chemical master equation. If there are only a finite number of reachable states, the exact soluiton can be computed using matrix exponentials. When there are infinite or extremely large number of reachable states, the state space is projected onto finite space, and the authors provided an estimation of accuracy of the truncated space approximation.
+                    This article introduced the finite state projection (FSP) method to directly solves or approximates the solution of the chemical master equation. If there are only a finite number of reachable states, the exact soluiton can be computed using matrix exponentials. When there are infinite or extremely large number of reachable states, the state space is projected onto finite space, and the authors provided an estimation of accuracy of the truncated space approximation.
 
                 .. grid-item-card:: Fig 1 Conceptual figure for the finite state projection method
 
