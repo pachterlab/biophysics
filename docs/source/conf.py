@@ -31,15 +31,6 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-# -- Options for EPUB output
-epub_show_urls = 'footnote'
-
-html_theme_options = {
-     ...
-     'navigation_with_keys': True,
-     ...
- }
-
 #### sphinx ####
 
 myst_enable_extensions = ["colon_fence", "deflist", "substitution", "html_image"]
