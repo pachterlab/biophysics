@@ -7,13 +7,14 @@ Computation of Molecular, Cellular, and Transcriptional Dynamics
 
             .. grid:: 2
 
-                .. 
+                .. grid-item:: 
+                    Finite states
                 
                     
 
                 .. grid-item-card:: Fig 1 Conceptual figure for the finite state projection method
 
-                    .. image:: ./figures/Munsky_2006.png
+                    .. image:: ./figures/Munsky_2006.jpeg
                         :width: 300
                         :align: center
                         :alt: some text
