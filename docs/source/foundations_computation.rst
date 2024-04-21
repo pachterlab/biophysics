@@ -1,4 +1,4 @@
-.. _computatiion:
+.. _computation:
 
 Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
