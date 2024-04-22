@@ -10,4 +10,4 @@ Installation:
 
     pip3 install git+https://github.com/pachterlab/CGCCP_2023.git#subdirectory=BIVI
 
-.. image:: figures/packages_bivi.png
+.. image:: figures/biVI.png
