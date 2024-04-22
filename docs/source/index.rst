@@ -46,9 +46,6 @@ Foundational Literature
 Explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and the lab's publications at :doc:`contributions`.
 
 
-Contents
---------
-
 .. toctree::
    :hidden:
 
