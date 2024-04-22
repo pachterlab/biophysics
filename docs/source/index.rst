@@ -50,6 +50,8 @@ Contents
 --------
 
 .. toctree::
+   :hidden:
+
 
    packages
    foundations
