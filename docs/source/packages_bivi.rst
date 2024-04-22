@@ -1,4 +1,4 @@
-.. _biVI:
+.. _bivi:
 
 *biVI:* Biophysical modeling with variational autoencoders
 ================================================================= 
