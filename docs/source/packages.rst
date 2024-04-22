@@ -1,11 +1,26 @@
 .. _packages:
 
+
+=====
 Our Packages
 =====
 
-.. _installation:
+Literature citations for papers relevant to our packages, methods, and approach
 
-Installation
-------------
+.. grid:: 1 2 3 4
 
-Tools for biophysical modeling...test
+    .. grid-item-card:: Monod
+       :link: monod
+       :link-type: ref
+   
+    .. grid-item-card:: biVI
+       :link: biVI
+       :link-type: ref
+   
+    .. grid-item-card:: meK-Means
+       :link: mekmeans
+       :link-type: ref
+   
+    .. grid-item-card:: Chronocell
+       :link: chronocell
+       :link-type: ref
