@@ -13,3 +13,6 @@ Installation:
 
   import monod
   from monod import mminference #Function implementing meK-Means algorithm
+
+
+.. image:: figures/packages_mekmeans.png
