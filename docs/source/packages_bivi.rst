@@ -10,5 +10,4 @@ Installation:
 
     pip3 install git+https://github.com/pachterlab/CGCCP_2023.git#subdirectory=BIVI
 
-
-Noise models are currently not implemented, but are soon to come... 
+.. image:: figures/packages_bivi.png
