@@ -21,4 +21,10 @@ Literature citations for papers relevant to our packages, methods, and approach
     .. grid-item-card:: Trajectory Inference
        :link: trajectoryinference
        :link-type: ref
+
+.. toctree::
+   :hidden:
+
+   contributions_clustering.rst
+
    
