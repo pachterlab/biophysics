@@ -14,7 +14,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :link-type: ref
    
     .. grid-item-card:: *biVI*
-       :link: biVI
+       :link: bivi
        :link-type: ref
    
     .. grid-item-card:: meK-Means
