@@ -12,4 +12,4 @@ Installation:
     pip install monod
 
 
-.. image:: figures/packages_monod.png
+.. image:: figures/monod.png
