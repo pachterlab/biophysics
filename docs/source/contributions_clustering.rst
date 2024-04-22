@@ -29,7 +29,7 @@ Clustering
     .. grid-item:: 
 
       .. image:: ./figures/mek_means_image.png
-                        :width: 200
+                        :width: 300
                         :align: center
                         :alt: meK-Means Inference
 
