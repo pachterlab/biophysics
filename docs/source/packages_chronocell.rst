@@ -10,3 +10,5 @@ Installation:
 ::
 
   pip install... coming soon 
+
+.. image:: figures/packages_chronocell.png
