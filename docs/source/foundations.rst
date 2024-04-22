@@ -7,10 +7,12 @@ Here we briefly summarize some relavant literature on biophysical modeling of si
 
 .. grid:: 2
 
+    .. grid-item-card:: Computational Works
+       :link: computation
+       :link-type: ref
+
     .. grid-item-card:: Experimental Works
        :link: experiment
        :link-type: ref
    
-    .. grid-item-card:: Computational Works
-       :link: computation
-       :link-type: ref
+    
