@@ -25,7 +25,7 @@ All methods require data with UMIs (molecular count data).
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | Tool                          | Task               | Resolution | Modalities | Steady State? | Technical Noise? | Language |
 +===============================+====================+============+============+===============+==================+==========+
-| Monod: :ref:`packages`        |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
+| Monod: :ref:`biVI`        |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | biVI: :ref:`packages`         |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
