@@ -9,11 +9,11 @@ Literature citations for papers relevant to our packages, methods, and approach
 
 .. grid:: 1 2 3 4
 
-    .. grid-item-card:: Monod
+    .. grid-item-card:: *Monod*
        :link: monod
        :link-type: ref
    
-    .. grid-item-card:: biVI
+    .. grid-item-card:: *biVI*
        :link: biVI
        :link-type: ref
    
