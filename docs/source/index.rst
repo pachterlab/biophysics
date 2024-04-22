@@ -25,13 +25,13 @@ All methods require data with UMIs (molecular count data).
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | Tool                          | Task               | Resolution | Modalities | Steady State? | Technical Noise? | Language |
 +===============================+====================+============+============+===============+==================+==========+
-| Monod: :ref:`monod`        |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
+| Monod: :ref:`monod`           |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
-| biVI: :ref:`bivi`         |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
+| biVI: :ref:`bivi`             |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | meK-Means: :ref:`mekmeans`    |Clustering          | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
-| Chronocell:   :ref:`chronocell` |Trajectory Inference| gene       | U/S RNA    | no            | no               | Python   |
+| Chronocell: :ref:`chronocell` |Trajectory Inference| gene       | U/S RNA    | no            | no               | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | Spatial: coming soon          |Parameter Inference | gene       | S RNA      | yes           | yes              | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
