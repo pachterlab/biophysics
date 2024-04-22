@@ -16,7 +16,7 @@ Clustering
     .. grid-item::  
 
       .. image:: ./figures/specious.png
-                        :width: 200
+                        :width: 150
                         :align: center
                         :alt: Elephant-shaped embeddings
 
@@ -29,7 +29,7 @@ Clustering
     .. grid-item:: 
 
       .. image:: ./figures/mek_means_image.png
-                        :width: 150
+                        :width: 200
                         :align: center
                         :alt: meK-Means Inference
 
