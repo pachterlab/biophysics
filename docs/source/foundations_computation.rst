@@ -24,9 +24,8 @@ Here we list a few papaer on solving chemical master equation.
             .. grid:: 2
 
                 .. grid-item:: 
-                    This article derived the analytical solution of bursty model.
+                    This article derived the analytical solution of bursty model via probability generating function methods. They studied the effects of pre-mRNA export on mRNA and protein levels, and concluded that export step can reduce variability at mRNA level but not protein level.
                 
-                    
 
                 .. grid-item-card:: Fig 1 Schematic of the gene expression model 
 
