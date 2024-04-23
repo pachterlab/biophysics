@@ -27,11 +27,11 @@ All methods require data with UMIs (molecular count data).
 +===============================+====================+============+============+===============+==================+==========+
 | :ref:`Monod<monod>`           |Parameter Inference | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
-| :ref:`bivi`                   |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
+| :ref:`biVI<bivi>`             |Parameter Inference | cell/gene  | U/S RNA    | yes           | coming soon      | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
-| :ref:`mekmeans`               |Clustering          | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
+| :ref:`meK-Means<mekmeans>`    |Clustering          | gene       | U/S RNA    | yes           | yes (3' seq)     | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
-| :ref:`chronocell`             |Trajectory Inference| gene       | U/S RNA    | no            | no               | Python   |
+| :ref:`Chronocell<chronocell>` |Trajectory Inference| gene       | U/S RNA    | no            | no               | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 | Spatial: coming soon          |Parameter Inference | gene       | S RNA      | yes           | yes              | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
