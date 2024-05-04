@@ -45,6 +45,14 @@ Foundational Literature
 
 Explore the foundational literature for biophysical modeling of transcription in :doc:`foundations`, and the lab's publications at :doc:`contributions`.
 
+.. raw:: html
+
+   <p align="right">
+         <br>
+        <em> 
+         Figure created by Kayla Jackson, with Biorender.com
+         </em>
+    </p>
 
 .. toctree::
    :hidden:
