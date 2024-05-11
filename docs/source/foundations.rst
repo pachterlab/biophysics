@@ -17,4 +17,9 @@ Here we briefly summarize some relavant literature on biophysical modeling of si
        :link: experiment
        :link-type: ref
    
-    
+.. toctree::
+   :hidden:
+
+   foundations_computation.rst
+   foundations_experiment.rst
+   
