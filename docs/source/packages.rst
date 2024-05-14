@@ -5,7 +5,7 @@
 Our Packages
 =====
 
-Literature citations for papers relevant to our packages, methods, and approach
+We have developed the following open-source softwares packages to analyze highthroughput genomics data with biophysical models. Click on the cards to explore our tools! 
 
 .. grid:: 1 2 3 4
 
