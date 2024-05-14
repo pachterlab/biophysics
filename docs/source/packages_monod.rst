@@ -11,6 +11,7 @@ We present the Python package *Monod* for the analysis of single-cell RNA sequen
 The Monod package can be installed from the command line. The source code is available and maintained at `https://github.com/pachterlab/monod <https://github.com/pachterlab/monod>`_. A separate repository, which contains sample data and Python notebooks for analysis with Monod, is accessible at `https://github.com/pachterlab/monod_examples/ <https://github.com/pachterlab/monod_examples/>`_. Structured documentation and tutorials are hosted at `https://monod-examples.readthedocs.io/ <https://monod-examples.readthedocs.io/>`_.
 
 For more details, please `see the preprint <https://doi.org/10.1101/2022.06.11.495771>`_.
+
 Installation: 
 
 ::
