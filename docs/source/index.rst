@@ -36,7 +36,7 @@ All methods require data with UMIs (molecular count data).
 | Spatial: coming soon          |Parameter Inference | gene       | S RNA      | yes           | yes              | Python   |
 +-------------------------------+--------------------+------------+------------+---------------+------------------+----------+
 
-**For more details on the available methods see** :doc:`packages`
+**For more details on the available methods see** :doc:`packages`.
 
 Not sure which tool is best for your data? See :doc:`choose`.
 
