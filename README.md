@@ -6,7 +6,7 @@ This is the Github repository for the Pachter Lab Biophysics Website. See the si
      <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/monod_v2.png" align="center" width=600 alt="Diagram"/>
    </p>
    <p align="center">
-     <em>Figure created by Kayla Jackson, with Biorender.com.</em>
+     <em>Figure created by Kayla Jackson</em>
    </p>
 
 
