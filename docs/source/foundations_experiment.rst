@@ -1,6 +1,6 @@
 .. _experiment:
 
-Experimental Work for Transcriptional Noise/Processing
+Here we list a few experimental work on transcription mechanisms and noise.
 =========
 
 .. dropdown:: Golding et al., 2005. `Real-time kinetics of gene activity in individual bacteria. <https://doi.org/10.1016/j.cell.2005.09.031>`_
@@ -33,6 +33,20 @@ Experimental Work for Transcriptional Noise/Processing
                         :align: center
                         :alt: some text
 
+.. dropdown:: Chong et al., 2014. `Mechanism of Transcriptional Bursting in Bacteria. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                
+                    This article studied the origin of transcriptional bursting in bacteria using in vitro, single-molecule assay. They showed that active transcription leads to positive supercoiling buildup on a DNA segment which in turns stops transcription initiation, while gyrase binding to the DNA segment can release positive supercoiling and resumed transcription.
+
+                .. grid-item-card:: 
+
+                    .. image:: ./figures/Chong_2014.jpg
+                        :width: 300
+                        :align: center
+                        :alt: some text
 
 .. dropdown:: Padovan-Merhar et al., 2015. `Single Mammalian Cells Compensate for Differences in Cellular Volume and DNA Copy Number through Independent Global Transcriptional Mechanisms. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_
 
@@ -44,9 +58,22 @@ Experimental Work for Transcriptional Noise/Processing
 
                 .. grid-item-card:: 
 
-                    .. image:: ./figures/PM_2005.png
+                    .. image:: ./figures/PM_2015.jpeg
                         :width: 300
                         :align: center
                         :alt: some text
 
+.. dropdown:: Sun et al., 2020. `Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size. <https://doi.org/10.1016/j.cub.2020.01.053>`_
 
+            .. grid:: 2
+
+                .. grid-item:: 
+                
+                    This article studied the effects of cellular volume and showed that RNA polymerase II initiation rates scale with cell volume.
+
+                .. grid-item-card:: 
+
+                    .. image:: ./figures/Sun_2020.jpg
+                        :width: 300
+                        :align: center
+                        :alt: some text
