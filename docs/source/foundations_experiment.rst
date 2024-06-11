@@ -41,7 +41,7 @@ Here we list a few experimental work on transcription mechanisms and noise.
                 
                     This article studied the origin of transcriptional bursting in bacteria using in vitro, single-molecule assay. They showed that active transcription leads to positive supercoiling buildup on a DNA segment which in turns stops transcription initiation, while gyrase binding to the DNA segment can release positive supercoiling and resumed transcription.
 
-                .. grid-item-card:: 
+                .. grid-item-card:: graphical abstract
 
                     .. image:: ./figures/Chong_2014.jpg
                         :width: 300
@@ -56,7 +56,7 @@ Here we list a few experimental work on transcription mechanisms and noise.
                 
                     This article studied the effects of cellular volume and DNA copy number on transcription. They showed that transcriptional burst size changes with cell volume and burst frequency changes with cell cycle.
 
-                .. grid-item-card:: 
+                .. grid-item-card:: graphical abstract
 
                     .. image:: ./figures/PM_2015.jpeg
                         :width: 300
@@ -69,9 +69,9 @@ Here we list a few experimental work on transcription mechanisms and noise.
 
                 .. grid-item:: 
                 
-                    This article studied the effects of cellular volume and showed that RNA polymerase II initiation rates scale with cell volume.
+                    This article showed that RNA polymerase II initiation rates scale with cell volume.
 
-                .. grid-item-card:: 
+                .. grid-item-card:: graphical abstract
 
                     .. image:: ./figures/Sun_2020.jpg
                         :width: 300
