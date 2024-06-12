@@ -55,7 +55,7 @@ Here we list a few experimental work on transcription mechanisms.
 
                 .. grid-item-card:: Fig 4. Transcriptional burst frequency and burst size vary equally across the genome and are strongly dependent on expression level.
 
-                    .. image:: ./figures/Dar_2012.
+                    .. image:: ./figures/Dar_2012.png
                         :width: 300
                         :align: center
                         :alt: some text
