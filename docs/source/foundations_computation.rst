@@ -71,3 +71,18 @@ Here we list a few papaer on solving chemical master equation.
                         :align: center
                         :alt: some text
             
+
+.. dropdown:: Grima et al., 2012. `Steady-state fluctuations of a genetic feedback loop: An exact solution.<https://doi.org/10.1063/1.4736721>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                    This article derived the exact steady-state solution of the chemical master equation for a gene regulatory feedback loop
+                
+                .. grid-item-card:: The model for a gene regulatory feedback loop
+            
+                                .. image:: ./figures/Grima_2012.png
+                                    :width: 300
+                                    :align: center
+                                    :alt: some text
+                        
