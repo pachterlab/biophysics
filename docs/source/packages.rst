@@ -34,3 +34,11 @@ We have developed the following open-source software packages to analyze high-th
    packages_mekmeans.rst
    packages_chronocell.rst
    
+=========================================
+
+**Generating unspliced/spliced count matrices**
+
+Our tools require as inputs spliced and unspliced UMI counts per gene and per cell (two cell by gene matrices). The current version of our alignment software `kallisto <https://pachterlab.github.io/kallisto/>`_ outputs these count matrices, as described in detail in `the protocol preprint <https://www.biorxiv.org/content/10.1101/2023.11.21.568164v2>`_.
+ 
+
+=========================================
