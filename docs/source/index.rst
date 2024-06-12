@@ -50,7 +50,7 @@ Explore the foundational literature for biophysical modeling of transcription in
    <p align="right">
          <br>
         <em> 
-         Figure created by Kayla Jackson, with Biorender.com
+         Figure created by Kayla Jackson
          </em>
     </p>
 
