@@ -24,3 +24,13 @@ We have developed the following open-source software packages to analyze high-th
     .. grid-item-card:: Chronocell
        :link: chronocell
        :link-type: ref
+
+
+.. toctree::
+   :hidden:
+
+   packages_monod.rst
+   packages_bivi.rst
+   packages_mekmeans.rst
+   packages_chronocell.rst
+   
