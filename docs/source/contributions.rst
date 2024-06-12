@@ -16,6 +16,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :img-background: ./figures/color_background.jpg
        :link: modeling
        :link-type: ref
+       :class-body: sd-align-major-center
        :text-align: center
 
    
@@ -23,6 +24,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :img-background: ./figures/color_background.jpg
        :link: parameterinference
        :link-type: ref
+       :class-body: sd-align-major-center
        :text-align: center
 
    
@@ -31,6 +33,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :link: clustering
        :link-type: ref
        :text-align: center
+       :class-body: sd-align-major-center
 
    
     .. grid-item-card:: :white:`Trajectory Inference`
@@ -38,6 +41,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :link: trajectoryinference
        :link-type: ref
        :text-align: center
+       :class-body: sd-align-major-center
 
 
 .. toctree::
