@@ -1,6 +1,6 @@
 .. _experiment:
 
-Here we list a few experimental work on transcription mechanisms and noise.
+Here we list a few experimental work on transcription mechanisms.
 =========
 
 .. dropdown:: Golding et al., 2005. `Real-time kinetics of gene activity in individual bacteria. <https://doi.org/10.1016/j.cell.2005.09.031>`_
@@ -38,11 +38,24 @@ Here we list a few experimental work on transcription mechanisms and noise.
             .. grid:: 2
 
                 .. grid-item:: 
-                    This article measured individual molecules of mRNA produced from a reporter gene and demonstrated transcriptional bursting in mammalian cells.
+                    This article developed a live-cell assay system for single-molecule observations. They tested it in Escherichia coli, yeast and mouse embryonic stem cells, and showed that protein molecules are produced in bursts.
 
-                .. grid-item-card:: Fig 2. Cell-to-Cell Variation of mRNA Numbers in Clonal Cell Lines.
+                .. grid-item-card:: Fig 2. Quantitative real-time measurement of individual protein expression events in live E. coli cells.
+                    .. image:: ./figures/Cai_2006.webp
+                        :width: 300
+                        :align: center
+                        :alt: some text
 
-                    .. image:: ./figures/Cai_2006.png
+.. dropdown:: Dar et al., 2012. `Transcriptional burst frequency and burst size are equally modulated across the human genome.<www.pnas.org/cgi/doi/10.1073/pnas.1213530109>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                    This article used time-lapse fluorescence microscopy to analyze 8,000 individual human genomic loci. They showed that bursty transcription is the major mode for the human genome, and both burst frequency and burst size can be regulated, dependent on the expression level.
+
+                .. grid-item-card:: Fig 4. Transcriptional burst frequency and burst size vary equally across the genome and are strongly dependent on expression level.
+
+                    .. image:: ./figures/Dar_2012.
                         :width: 300
                         :align: center
                         :alt: some text
