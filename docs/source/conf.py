@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Pachter Biophysics'
+project = 'Pachter Lab Biophysics'
 copyright = '2024, Pachter Lab'
 author = 'Pachter Lab Members'
 
