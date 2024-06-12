@@ -4,6 +4,20 @@ Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
 Here we list a few papaer on solving chemical master equation.
 
+.. dropdown:: Peccoud and Ycart, 1995. `Markovian Modeling of Gene-Product Synthesis. <https://doi.org/10.1006/tpbi.1995.1027>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                    This article studied the telegraph model of transcription. They studies properties of the systems and derived an analytical solution.
+
+                .. grid-item-card:: The telegraph model
+
+                    .. image:: ./figures/Peccound_1995.png
+                        :width: 300
+                        :align: center
+                        :alt: some text
+
 .. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
             .. grid:: 2
@@ -17,6 +31,29 @@ Here we list a few papaer on solving chemical master equation.
                         :width: 300
                         :align: center
                         :alt: some text
+
+.. dropdown:: Jahnke and Huisinga, 2007. `Solving the chemical master equation for monomolecular reaction systems analytically.<https://doi.org/10.1007/s00285-006-0034-x>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                    This article derives the exact solution formula for the chemical master equations of monomolecular reaction systems. It shows that the solutions can be expressed as a convolution of multinomial and product Poisson distributions, with time-dependent parameters evolving according to traditional reaction-rate equations.
+
+.. dropdown:: Shahrezaei and Swain, 2008. `Analytical distributions for stochastic gene expression. <www.pnas.org/cgi/doi/10.1073/pnas.0803850105>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                    This article used time-scale difference of mRNA and protein decay to derive an approximation of protein distribution under the two-stage (constitutive) and three-stage (telegraph) model.
+                
+
+                .. grid-item-card:: Fig 3 Predictions and simulations for a three-stage model of gene expression. 
+
+                    .. image:: ./figures/Swain_2008.png
+                        :width: 300
+                        :align: center
+                        :alt: some text
+            
 
 
 .. dropdown:: Singh and Bokes, 2012. `Consequences of mRNA transport on stochastic variability in protein levels. <https://doi.org/10.1016/j.bpj.2012.07.015>`_
