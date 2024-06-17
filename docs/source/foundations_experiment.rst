@@ -1,7 +1,22 @@
 .. _experiment:
 
-Here we list a few experimental work on transcription mechanisms.
+Here we list a few experimental works on transcription mechanisms.
 =========
+
+.. dropdown::  Elowitz et al., 2002. `Stochastic gene expression in a single cell. <https://doi.org/10.1126/science.1070919>`_
+
+            .. grid:: 2
+
+                .. grid-item:: 
+                
+                    This article 
+
+                .. grid-item-card:: Fig 1 Intrinsic and extrinsic noise
+                    .. image:: ./figures/Elowitz_2002.png
+                        :width: 300
+                        :align: center
+                        :alt: some text
+
 
 .. dropdown:: Golding et al., 2005. `Real-time kinetics of gene activity in individual bacteria. <https://doi.org/10.1016/j.cell.2005.09.031>`_
 
