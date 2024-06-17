@@ -1,7 +1,7 @@
 Our Team
 =========================================
 
-Meet Our Team!
+Meet the Pachter Lab Biophysics Team!
 
 Current
 ---------------
