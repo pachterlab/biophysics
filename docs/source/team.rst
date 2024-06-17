@@ -1,36 +1,54 @@
 Our Team
 =========================================
 
+Meet Our Team!
+
 Current
 ---------------
 **Lior Pachter**
-Principal Investigator
+
+    Principal Investigator
+
+    lpachter@caltech.edu
+
 
 **Maria Carilli**
-Graduate student
+
+    Graduate student
+
 
 **Tara Chari**
-Graduate student
+
+    Graduate student
+
 
 **Meichen Fang**
-Graduate student
+
+    Graduate student
+
 
 **Catherine Felce**
-Graduate student
+
+    Graduate student
+
 
 **Kayla Jackson**
-Graduate student
+
+    Graduate student
+
 
 **Conrad Oakes**
-Graduate student
+
+    Graduate student
+
 
 **Joseph Rich**
-Graduate student
 
-
+    Graduate student
 
 
 Alumni
 ---------------
 **Gennady Gorin**
-Former graduate student
+
+    Former graduate student
