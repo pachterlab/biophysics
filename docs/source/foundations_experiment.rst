@@ -50,7 +50,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Cai et al., 2006. `Stochastic protein expression in individual cells at the single molecule level.<https://doi.org/10.1038/nature04599>`_
+.. dropdown:: Cai et al., 2006. `Stochastic protein expression in individual cells at the single molecule level. <https://doi.org/10.1038/nature04599>`_
 
             .. grid:: 2
 
