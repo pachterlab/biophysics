@@ -1,6 +1,6 @@
 .. _monod:
 
-*Monod*: a package for CME inference from seq data
+*Monod*: CME inference from seq data
 ================================================================= 
 
 
