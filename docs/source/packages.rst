@@ -12,18 +12,22 @@ We have developed the following open-source software packages to analyze high-th
     .. grid-item-card:: *Monod*
        :link: monod
        :link-type: ref
+       :text-align: center
    
     .. grid-item-card:: *biVI*
        :link: bivi
        :link-type: ref
+       :text-align: center
    
     .. grid-item-card:: meK-Means
        :link: mekmeans
        :link-type: ref
+       :text-align: center
    
     .. grid-item-card:: Chronocell
        :link: chronocell
        :link-type: ref
+       :text-align: center
 
 
 .. toctree::
