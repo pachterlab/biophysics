@@ -2,7 +2,7 @@
 Foundations
 ####################################
 
-Here, we briefly summarize some relevant literature on the biophysical modeling of single-cell gene expression. Please note that this is not an exhaustive list, so if you know of a paper that we have not included, please feel free to contact us!
+Here, we summarize some relevant literature on the biophysical modeling of single-cell gene expression. Please note that this is not an exhaustive list, so if you know of a paper that we have not included, please feel free to contact us!
 
 .. grid:: 2
 
