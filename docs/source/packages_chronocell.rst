@@ -15,4 +15,9 @@ Installation:
 A `Github repository <https://github.com/pachterlab/FGP_2024>`_ is available with example notebooks.  For more details, please `see the preprint <https://www.biorxiv.org/content/10.1101/2024.01.26.577510v1>`_.
 
 
-.. image:: figures/process_time.png
+.. raw:: html
+
+   <p align="center">
+        <a href="https://biophysics.readthedocs.io/en/latest/packages.html">
+             <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/process_time.png" alt="Chronocell"/>  </a>
+   </p>
