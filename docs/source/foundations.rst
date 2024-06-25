@@ -6,7 +6,7 @@ Here, we summarize some relevant literature on the biophysical modeling of singl
 
 .. grid:: 2
 
-    .. grid-item-card:: :#08326e:`Computational Works`
+    .. grid-item-card:: :white:`Computational Works`
        :link: computation
        :link-type: ref
        :text-align: center
