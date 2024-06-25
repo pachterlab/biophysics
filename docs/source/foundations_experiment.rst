@@ -1,7 +1,9 @@
 .. _experiment:
 
-Here we list a few experimental works on transcription mechanisms.
+Experimental Discovery and Investigation of Transcription Dynamics
 =========
+
+Here we list a few foundational experimental works in studying transcriptional mechanisms and stochasticity.
 
 .. dropdown::  Elowitz et al., 2002. `Stochastic gene expression in a single cell. <https://doi.org/10.1126/science.1070919>`_
 
@@ -61,7 +63,7 @@ Here we list a few experimental works on transcription mechanisms.
                         :align: center
                         :alt: some text
 
-.. dropdown:: Dar et al., 2012. `Transcriptional burst frequency and burst size are equally modulated across the human genome.<www.pnas.org/cgi/doi/10.1073/pnas.1213530109>`_
+.. dropdown:: Dar et al., 2012. `Transcriptional burst frequency and burst size are equally modulated across the human genome. <www.pnas.org/cgi/doi/10.1073/pnas.1213530109>`_
 
             .. grid:: 2
 
