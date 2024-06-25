@@ -2,7 +2,7 @@
 
 Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
-Here we list a few papaer on solving chemical master equation.
+Here we list a few papers for developing and solving models with the chemical master equation.
 
 .. dropdown:: Peccoud and Ycart, 1995. `Markovian Modeling of Gene-Product Synthesis. <https://doi.org/10.1006/tpbi.1995.1027>`_
 
@@ -32,7 +32,7 @@ Here we list a few papaer on solving chemical master equation.
                         :align: center
                         :alt: some text
 
-.. dropdown:: Jahnke and Huisinga, 2007. `Solving the chemical master equation for monomolecular reaction systems analytically.<https://doi.org/10.1007/s00285-006-0034-x>`_
+.. dropdown:: Jahnke and Huisinga, 2007. `Solving the chemical master equation for monomolecular reaction systems analytically. <https://doi.org/10.1007/s00285-006-0034-x>`_
 
             .. grid:: 2
 
@@ -72,7 +72,7 @@ Here we list a few papaer on solving chemical master equation.
                         :alt: some text
             
 
-.. dropdown:: Grima et al., 2012. `Steady-state fluctuations of a genetic feedback loop: An exact solution.<https://doi.org/10.1063/1.4736721>`_
+.. dropdown:: Grima et al., 2012. `Steady-state fluctuations of a genetic feedback loop: An exact solution. <https://doi.org/10.1063/1.4736721>`_
 
             .. grid:: 2
 
