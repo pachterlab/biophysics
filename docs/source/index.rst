@@ -66,7 +66,4 @@ Explore the foundational literature for biophysical modeling of transcription in
 
 
 
-.. note::
-
-   This project is under active development.
 
