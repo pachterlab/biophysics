@@ -6,12 +6,12 @@ Here, we summarize some relevant literature on the biophysical modeling of singl
 
 .. grid:: 2
 
-    .. grid-item-card:: :white:`Computational Works`
+    .. grid-item-card:: :light-blue:`Computational Works`
        :link: computation
        :link-type: ref
        :text-align: center
 
-    .. grid-item-card:: :#08326e:`Experimental Works`
+    .. grid-item-card:: :teal:`Experimental Works`
        :link: experiment
        :link-type: ref
        :text-align: center
