@@ -11,7 +11,7 @@ Trajectory Inference
 
     .. grid-item::  
 
-      .. image:: ./figures/chronocell.pdf
+      .. image:: ./figures/Chronocell.pdf
                         :width: 250
                         :align: center
                         :alt: Chronocell trajectory model
