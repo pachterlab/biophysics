@@ -21,5 +21,5 @@ A `Github repository <https://github.com/pachterlab/FGP_2024>`_ is available wit
 
    <p align="center">
         <a href="https://biophysics.readthedocs.io/en/latest/packages.html">
-             <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/process_time.png" alt="Chronocell"/>  </a>
+             <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/Chronocell.png" alt="Chronocell"/>  </a>
    </p>
