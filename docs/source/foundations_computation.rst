@@ -49,7 +49,6 @@ Here we list a few reference papers on the theory and simulation of the chemical
             
             .. grid-item:: In this article, Paulsson used fluctuation-dissipation theorem to derive an equation for second order noise. The equation depends on kinetic orders of reactions and unified results from a few studies of gene expression noise.
 
-
 .. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
             .. grid:: 2
@@ -70,6 +69,13 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
                 .. grid-item:: 
                     This article derives the exact solution formula for the chemical master equations of monomolecular reaction systems. It shows that the solutions can be expressed as a convolution of multinomial and product Poisson distributions, with time-dependent parameters evolving according to traditional reaction-rate equations.
+
+.. dropdown:: Booth et. al., 2007. `A stochastic model of gene regulation using the chemical master equation. <https://doi.org/10.1007/978-0-8176-4558-8_7>`_
+            
+            .. grid:: 1
+
+                .. grid-item:: This chapter describes a hybrid deterministic/stochastic simulation for chemical master equation in combination with chemical rate equations, which is applied to study genetic regulatory networks in prokaryotes: states of the gene represent the binding and unbinding of protein complexes to DNA are modeled using the master equation, while protein and substrate concentrations are represented by continuum variables modeled by differential equations.
+
 
 .. dropdown:: Shahrezaei and Swain, 2008. `Analytical distributions for stochastic gene expression. <www.pnas.org/cgi/doi/10.1073/pnas.0803850105>`_
 
