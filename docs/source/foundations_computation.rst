@@ -34,8 +34,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
             .. grid:: 1
 
-                .. grid-item:: 
-                    Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
+                .. grid-item:: Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
 
 
 .. dropdown:: Gillespie, 2001. `Approximate accelerated stochastic simulation of chemically reacting systems. <https://doi.org/10.1063/1.1378322>`_
@@ -43,6 +42,13 @@ Here we list a few reference papers on the theory and simulation of the chemical
             .. grid:: 1
 
                 .. grid-item:: In this article, Gillespie proposed the "τ-leap" method for Gillespie algorithm. It finds a time τ that is small enough that the change in the state and propensity function are negligible. Therefore, in this time interval, the propensity function will be essentially constant and the number of times a reaction channel fires will be a Poisson random variable.
+
+.. dropdown:: Paulsson, 2004. `Summing up the noise in gene networks. <https://doi.org/10.1038/nature02257>`_
+
+            .. grid:: 1
+            
+            .. grid-item:: In this article, Paulsson used fluctuation-dissipation theorem to derive an equation for second order noise. The equation depends on kinetic orders of reactions and unified results from a few studies of gene expression noise.
+
 
 .. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
