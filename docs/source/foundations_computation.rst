@@ -2,13 +2,19 @@
 
 Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
-Here we list a few reference papers and books on the theory and simulation of the chemical master equation as well as its application in stochastic modeling of gene expression.
+Here we list a few reference papers on the theory and simulation of the chemical master equation as well as its application in stochastic modeling of gene expression.
 
 .. dropdown:: Gillespie, 1976. `A general method for numerically simulating the stochastic time evolution of coupled chemical reactions. <https://doi.org/10.1016/0021-9991(76)90041-3>`_
 
             .. grid:: 1
 
                 .. grid-item:: In this article, Gillespie described the Stochastic Simulation Algorithm (Gillespie algorithm).
+
+.. dropdown:: Gardiner and Chaturvedi, 1977. `The Poisson Representation. I. A New Technique for Chemical Master Equations. <https://doi.org/10.1007/BF01014349>`_
+
+            .. grid:: 1
+
+                .. grid-item:: In this article, Gardiner and Chaturvedi introduced the Poisson representation which expresses the probability distribution as a convolution of Poisson distributions. This representation transforms chemical master equations into Fokker-Planck and stochastic differential equations and leads to a simple expression of chemical equilibrium states.
 
 .. dropdown:: Peccoud and Ycart, 1995. `Markovian Modeling of Gene-Product Synthesis. <https://doi.org/10.1006/tpbi.1995.1027>`_
 
