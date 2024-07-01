@@ -4,6 +4,12 @@ Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
 Here we list a few papers for developing and solving models with the chemical master equation.
 
+.. dropdown:: Gillespie, 1976. `A general method for numerically simulating the stochastic time evolution of coupled chemical reactions. <https://doi.org/10.1016/0021-9991(76)90041-3>`_
+
+            .. grid:: 1
+
+                .. grid-item:: In this article, Gillespie described the Stochastic Simulation Algorithm (Gillespie algorithm).
+
 .. dropdown:: Peccoud and Ycart, 1995. `Markovian Modeling of Gene-Product Synthesis. <https://doi.org/10.1006/tpbi.1995.1027>`_
 
             .. grid:: 2
@@ -17,6 +23,20 @@ Here we list a few papers for developing and solving models with the chemical ma
                         :width: 300
                         :align: center
                         :alt: some text
+
+.. dropdown:: Gillespie, 2000. `The chemical Langevin equation. <https://doi.org/10.1063/1.481811>`_
+
+            .. grid:: 1
+
+                .. grid-item:: 
+                    Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
+
+
+.. dropdown:: Gillespie, 2001. `Approximate accelerated stochastic simulation of chemically reacting systems. <https://doi.org/10.1063/1.1378322>`_
+            
+            .. grid:: 1
+
+                .. grid-item:: In this article, Gillespie proposed the "τ-leap" method for Gillespie algorithm. It finds a time τ that is small enough that the change in the state and propensity function are negligible. Therefore, in this time interval, the propensity function will be essentially constant and the number of times a reaction channel fires will be a Poisson random variable.
 
 .. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
