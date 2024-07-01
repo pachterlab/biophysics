@@ -2,7 +2,7 @@
 
 Computation of Molecular, Cellular, and Transcriptional Dynamics
 ================================================================= 
-Here we list a few papers for developing and solving models with the chemical master equation.
+Here we list a few reference papers and books on the theory and simulation of the chemical master equation as well as its application in stochastic modeling of gene expression.
 
 .. dropdown:: Gillespie, 1976. `A general method for numerically simulating the stochastic time evolution of coupled chemical reactions. <https://doi.org/10.1016/0021-9991(76)90041-3>`_
 
