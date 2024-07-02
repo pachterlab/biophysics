@@ -11,7 +11,7 @@ Here we list a few foundational experimental works in studying transcriptional m
 
                 .. grid-item:: 
                 
-                    This article 
+                    In this article, Elowitz et. al. measured and decomposed intrinsic and extrinsic noise in gene expression. They constructed *E coli* expressing two fluorescent proteins (cfp and yfp) controlled by identical promoters. The the relative difference in fluorescence intensity of the two reporter proteins in the same cell represents intrinsic noise while the correlated fluctuation of two protein represents extrinsic noise.
 
                 .. grid-item-card:: Fig 1 Intrinsic and extrinsic noise
                     .. image:: ./figures/Elowitz_2002.png
