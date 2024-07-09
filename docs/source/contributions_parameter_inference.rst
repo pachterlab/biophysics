@@ -10,7 +10,7 @@ Parameter Inference
     .. grid-item::  Utilizes variational autoencoders for analyzing bimodal single-cell RNA sequencing data, providing single-cell resolution of biophysical parameters.
 
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/biVI.png
                         :width: 320
@@ -24,7 +24,7 @@ Parameter Inference
 
     .. grid-item::  Utilizes spectral neural networks to approximate models of transcriptional dynamics.
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/spectral_neural.png
                         :width: 250
@@ -37,7 +37,7 @@ Parameter Inference
 
     .. grid-item::  Introduces Monod, a tool for biophysical analysis of single-cell RNA sequencing count data.
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/monod.png
                         :width: 250
@@ -50,7 +50,7 @@ Parameter Inference
 
     .. grid-item::  Utilizes special function methods to provide a deeper understanding of the bursty behavior observed in transcriptional processes.
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/special_functions.png
                         :width: 250
