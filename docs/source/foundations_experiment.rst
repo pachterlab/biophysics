@@ -58,7 +58,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                     This article developed a live-cell assay system for single-molecule observations. They tested it in Escherichia coli, yeast and mouse embryonic stem cells, and showed that protein molecules are produced in bursts.
 
                 .. grid-item-card:: Fig 2. Quantitative real-time measurement of individual protein expression events in live E. coli cells.
-                    .. image:: ./figures/Cai_2006.webp
+                    .. image:: ./figures/Cai_2006.png
                         :width: 300
                         :align: center
                         :alt: some text
