@@ -5,7 +5,7 @@ Experimental Discovery and Investigation of Transcription Dynamics
 
 Here we list a few foundational experimental works in studying transcriptional mechanisms and stochasticity.
 
-.. dropdown::  Elowitz et al., 2002. `Stochastic gene expression in a single cell. <https://doi.org/10.1126/science.1070919>`_
+.. dropdown::  `Stochastic gene expression in a single cell. <https://doi.org/10.1126/science.1070919>`_ Elowitz et al., 2002. 
 
             .. grid:: 2
 
@@ -20,7 +20,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :alt: some text
 
 
-.. dropdown:: Golding et al., 2005. `Real-time kinetics of gene activity in individual bacteria. <https://doi.org/10.1016/j.cell.2005.09.031>`_
+.. dropdown:: `Real-time kinetics of gene activity in individual bacteria. <https://doi.org/10.1016/j.cell.2005.09.031>`_ Golding et al., 2005. 
 
             .. grid:: 2
 
@@ -36,7 +36,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :alt: some text
             
 
-.. dropdown:: Raj et al., 2006. `Stochastic mRNA Synthesis in Mammalian Cells. <https://doi.org/10.1371/journal.pbio.0040309>`_
+.. dropdown:: `Stochastic mRNA Synthesis in Mammalian Cells. <https://doi.org/10.1371/journal.pbio.0040309>`_ Raj et al., 2006. 
 
             .. grid:: 2
 
@@ -50,7 +50,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Cai et al., 2006. `Stochastic protein expression in individual cells at the single molecule level. <https://doi.org/10.1038/nature04599>`_
+.. dropdown:: `Stochastic protein expression in individual cells at the single molecule level. <https://doi.org/10.1038/nature04599>`_  Cai et al., 2006. 
 
             .. grid:: 2
 
@@ -63,7 +63,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Dar et al., 2012. `Transcriptional burst frequency and burst size are equally modulated across the human genome. <www.pnas.org/cgi/doi/10.1073/pnas.1213530109>`_
+.. dropdown:: `Transcriptional burst frequency and burst size are equally modulated across the human genome. <www.pnas.org/cgi/doi/10.1073/pnas.1213530109>`_ Dar et al., 2012. 
 
             .. grid:: 2
 
@@ -77,7 +77,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Chong et al., 2014. `Mechanism of Transcriptional Bursting in Bacteria. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_
+.. dropdown:: `Mechanism of Transcriptional Bursting in Bacteria. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_ Chong et al., 2014. 
 
             .. grid:: 2
 
@@ -92,7 +92,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Padovan-Merhar et al., 2015. `Single Mammalian Cells Compensate for Differences in Cellular Volume and DNA Copy Number through Independent Global Transcriptional Mechanisms. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_
+.. dropdown:: `Single Mammalian Cells Compensate for Differences in Cellular Volume and DNA Copy Number through Independent Global Transcriptional Mechanisms. <http://dx.doi.org/10.1016/j.molcel.2015.03.005>`_ Padovan-Merhar et al., 2015. 
 
             .. grid:: 2
 
@@ -107,7 +107,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                         :align: center
                         :alt: some text
 
-.. dropdown:: Sun et al., 2020. `Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size. <https://doi.org/10.1016/j.cub.2020.01.053>`_
+.. dropdown:: `Size-Dependent Increase in RNA Polymerase II Initiation Rates Mediates Gene Expression Scaling with Cell Size. <https://doi.org/10.1016/j.cub.2020.01.053>`_ Sun et al., 2020. 
 
             .. grid:: 2
 
