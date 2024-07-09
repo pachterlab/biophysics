@@ -7,9 +7,7 @@ Current
 ---------------
 **Lior Pachter**
 
-    Principal Investigator
-
-    lpachter@caltech.edu
+    Principal Investigator, lpachter@caltech.edu
 
 
 **Maria Carilli**
