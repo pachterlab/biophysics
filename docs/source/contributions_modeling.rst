@@ -22,7 +22,7 @@ Model Definition (+ noise)
                         :alt: Transcription model diagrams
             
 
-.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, and L. Pachter, 2022.  
+.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, J. Vastola, M. Fang, and L. Pachter, 2022.  
 
           .. grid:: 2
 
