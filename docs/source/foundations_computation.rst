@@ -26,7 +26,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
                         :align: center
                         :alt: some text
 
-.. dropdown:: The chemical Langevin equation. <https://doi.org/10.1063/1.481811>`_ `Gillespie, 2000. 
+.. dropdown:: `The chemical Langevin equation. <https://doi.org/10.1063/1.481811>`_ Gillespie, 2000. 
 
             In this article, Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
 
