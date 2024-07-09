@@ -53,8 +53,8 @@ Here we list a few reference papers on the theory and simulation of the chemical
                         :width: 300
                         :align: center
                         :alt: some text
-            
-                        Fig 1. Conceptual figure for the finite state projection method.
+                    
+                    Fig 1. Conceptual figure for the finite state projection method.
 
 .. dropdown:: `Solving the chemical master equation for monomolecular reaction systems analytically. <https://doi.org/10.1007/s00285-006-0034-x>`_  Jahnke and Huisinga, 2007. 
             
