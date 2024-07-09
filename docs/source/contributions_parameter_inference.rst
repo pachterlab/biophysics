@@ -3,7 +3,7 @@
 Parameter Inference
 ================================================================= 
 
-.. dropdown:: `Biophysical modeling with variational autoencoders for bimodal, single-cell RNA sequencing data <https://www.biorxiv.org/content/10.1101/2023.01.13.523995v1>`_ - M. Carilli, G. Gorin, Y. Choi, T. Chari, L. Pachter 
+.. dropdown:: `Biophysical modeling with variational autoencoders for bimodal, single-cell RNA sequencing data <https://www.biorxiv.org/content/10.1101/2023.01.13.523995v1>`_ - M. Carilli, G. Gorin, Y. Choi, T. Chari, and L. Pachter, 2023.
 
   .. grid:: 2
 
@@ -18,7 +18,7 @@ Parameter Inference
                         :alt: Parameter inference
 
 
-.. dropdown:: `Spectral neural approximations for models of transcriptional dynamics <https://www.biorxiv.org/content/10.1101/2022.06.16.496448v2.full.pdf>`_ - G. Gorin, MT. Carilli, T. Chari, L. Pachter  
+.. dropdown:: `Spectral neural approximations for models of transcriptional dynamics <https://www.biorxiv.org/content/10.1101/2022.06.16.496448v2.full.pdf>`_ - G. Gorin, MT. Carilli, T. Chari, and L. Pachter, 2022.
 
   .. grid:: 2
 
@@ -31,7 +31,7 @@ Parameter Inference
                         :align: center
                         :alt: Spectral neural network inferring probabilities based on splicing model
 
-.. dropdown:: `Monod: mechanistic analysis of single-cell RNA sequencing count data <https://doi.org/10.1101/2022.06.11.495771>`_ - G. Gorin, L. Pachter, 2022   
+.. dropdown:: `Monod: mechanistic analysis of single-cell RNA sequencing count data <https://doi.org/10.1101/2022.06.11.495771>`_ - G. Gorin, and L. Pachter, 2022.
 
   .. grid:: 2
 
@@ -44,7 +44,7 @@ Parameter Inference
                         :align: center
                         :alt: Calculating the ratio of intrinsic to extrinsic noise
 
-.. dropdown:: `Special function methods for bursty models of transcription <https://doi.org/10.1103/PhysRevE.102.022409>`_ - G. Gorin, L. Pachter    
+.. dropdown:: `Special function methods for bursty models of transcription <https://doi.org/10.1103/PhysRevE.102.022409>`_ - G. Gorin, and L. Pachter, 2020
 
   .. grid:: 2
 
