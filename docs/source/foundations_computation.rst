@@ -109,20 +109,6 @@ Here we list a few reference papers on the theory and simulation of the chemical
                                     :align: center
                                     :alt: some text
                         
-.. dropdown:: `Steady-state fluctuations of a genetic feedback loop: An exact solution. <https://doi.org/10.1063/1.4736721>`_ Grima et al., 2012. 
-
-            .. grid:: 2
-
-                .. grid-item:: 
-                    This article derived the exact steady-state solution of the chemical master equation for a gene regulatory feedback loop
-                
-                .. grid-item-card:: The model for a gene regulatory feedback loop
-            
-                                .. image:: ./figures/Grima_2012.png
-                                    :width: 300
-                                    :align: center
-                                    :alt: some text
-                        
 .. dropdown:: `Phenotypic switching in gene regulatory networks. <https://doi.org/10.1073/pnas.140004911>`_ Thomas et al., 2014. 
 
             .. grid:: 2
