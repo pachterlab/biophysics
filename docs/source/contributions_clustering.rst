@@ -20,7 +20,7 @@ Clustering
                         :align: center
                         :alt: Elephant-shaped embeddings
 
-.. dropdown:: `Biophysically Interpretable Inference of Cell Types from Multimodal Sequencing Data <https://doi.org/10.1101/2023.09.17.558131>` - T. Chari, G. Gorin, and L. Pachter, 2023.
+.. dropdown:: `Biophysically Interpretable Inference of Cell Types from Multimodal Sequencing Data <https://doi.org/10.1101/2023.09.17.558131>`_ - T. Chari, G. Gorin, and L. Pachter, 2023.
 
   .. grid:: 2
 
