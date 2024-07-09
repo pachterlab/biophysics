@@ -8,7 +8,7 @@ Model Definition (+ noise)
   :alt: Elephant-shaped embeddings
 
 
-.. dropdown:: `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, L. Pachter
+.. dropdown:: `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida,and L. Pachter, 2022.
 
   .. grid:: 2
 
@@ -22,7 +22,7 @@ Model Definition (+ noise)
                         :alt: Transcription model diagrams
             
 
-.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, L. Pachter  
+.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, and L. Pachter. 2022.  
 
           .. grid:: 2
 
@@ -35,7 +35,7 @@ Model Definition (+ noise)
                         :align: center
                         :alt: Model refinement process
 
-.. dropdown::  `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, L. Pachter 
+.. dropdown::  `Modeling bursty transcription and splicing with the chemical master equation <https://doi.org/10.1016/j.bpj.2022.02.004>`_ - G. Gorin, and L. Pachter, 2022. 
 
           .. grid:: 2
 
@@ -49,7 +49,7 @@ Model Definition (+ noise)
                         :align: center
                         :alt: Splicing graphs
 
-.. dropdown::  `Length biases in single-cell RNA sequencing of pre-mRNA <https://doi.org/10.1016%2Fj.bpr.2022.100097>`_ - G. Gorin, L. Pachter  
+.. dropdown::  `Length biases in single-cell RNA sequencing of pre-mRNA <https://doi.org/10.1016%2Fj.bpr.2022.100097>`_ - G. Gorin, and L. Pachter, 2022.
 
           .. grid:: 2
 
