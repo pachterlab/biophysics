@@ -13,7 +13,7 @@ Clustering
 
     .. grid-item::  Explores problems with low-dimensional embeddings.
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/specious.png
                         :width: 150
@@ -26,7 +26,7 @@ Clustering
 
     .. grid-item::  Enables interpretable and consistent cell cluster determination from multimodal data.
 
-    .. grid-item:: 
+    .. grid-item-card:: 
 
       .. image:: ./figures/mek_means_image.png
                         :width: 300
