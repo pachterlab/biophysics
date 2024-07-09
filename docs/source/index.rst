@@ -4,7 +4,7 @@ Pachter Lab Biophysics Home
 .. raw:: html
 
    <p align="center">
-     <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/monod_v2.png" align="center" width=600 alt="Diagram"/>
+     <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/biophysics_main.png" align="center" width=600 alt="Diagram"/>
    </p>
 
 =========================================
