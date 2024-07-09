@@ -3,7 +3,7 @@
 This is the Github repository for the Pachter Lab Biophysics Website. See the site [here](https://biophysics.readthedocs.io/en/latest/index.html) for more details on the methods and tools available.
 
    <p align="center">
-     <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/monod_v2.png" align="center" width=600 alt="Diagram"/>
+     <img src="https://github.com/pachterlab/biophysics/raw/main/docs/source/figures/biophysics_main.png" align="center" width=600 alt="Diagram"/>
    </p>
    <p align="center">
      <em>Figure created by Kayla Jackson</em>
