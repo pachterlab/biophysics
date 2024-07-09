@@ -22,7 +22,7 @@ Model Definition (+ noise)
                         :alt: Transcription model diagrams
             
 
-.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, and L. Pachter. 2022.  
+.. dropdown:: `Interpretable and tractable models of transcriptional noise for the rational design of single-molecule quantification experiments <https://doi.org/10.1038/s41467-022-34857-7>`_ - G. Gorin, JJ. Vastola, M. Fang, and L. Pachter, 2022.  
 
           .. grid:: 2
 
@@ -63,7 +63,7 @@ Model Definition (+ noise)
                         :align: center
                         :alt: Mean expression vs gene length
 
-.. dropdown::  `Intrinsic and extrinsic noise are distinguishable in a synthesis–export–degradation model of mRNA production <https://doi.org/10.1101/2020.09.25.312868>`_ - G. Gorin, L. Pachter
+.. dropdown::  `Intrinsic and extrinsic noise are distinguishable in a synthesis–export–degradation model of mRNA production <https://doi.org/10.1101/2020.09.25.312868>`_ - G. Gorin, and L. Pachter, 2020.
 
           .. grid:: 2
 
