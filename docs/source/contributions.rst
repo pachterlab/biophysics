@@ -18,7 +18,7 @@ Literature citations for papers relevant to our packages, methods, and approach
        :text-align: center
 
    
-    .. grid-item-card:: Parameter inference
+    .. grid-item-card:: Parameter Inference
        :link: parameterinference
        :link-type: ref
        :text-align: center
