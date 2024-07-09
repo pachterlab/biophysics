@@ -12,32 +12,28 @@ Literature citations for papers relevant to our packages, methods, and approach
 
 .. grid:: 1 2 3 4
 
-    .. grid-item-card:: :white:`Modeling`
-       :img-background: ./figures/color_background.jpg
+    .. grid-item-card:: 
        :link: modeling
        :link-type: ref
        :class-body: sd-align-major-center
        :text-align: center
 
    
-    .. grid-item-card:: :white:`Parameter Inference`
-       :img-background: ./figures/color_background.jpg
+    .. grid-item-card::
        :link: parameterinference
        :link-type: ref
        :class-body: sd-align-major-center
        :text-align: center
 
    
-    .. grid-item-card:: :white:`Clustering`
-       :img-background: ./figures/color_background.jpg
+    .. grid-item-card:: 
        :link: clustering
        :link-type: ref
        :text-align: center
        :class-body: sd-align-major-center
 
    
-    .. grid-item-card:: :white:`Trajectory Inference`
-       :img-background: ./figures/color_background.jpg
+    .. grid-item-card:: 
        :link: trajectoryinference
        :link-type: ref
        :text-align: center
