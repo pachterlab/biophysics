@@ -10,7 +10,7 @@ Our Contributions
 
 Literature citations for papers relevant to our packages, methods, and approach
 
-.. grid:: 2
+.. grid:: 1 2 3 4
 
     .. grid-item-card:: Modeling
        :link: modeling
