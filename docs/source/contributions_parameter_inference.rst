@@ -18,7 +18,7 @@ Parameter Inference
                         :alt: Parameter inference
 
 
-.. dropdown:: `Spectral neural approximations for models of transcriptional dynamics <https://www.biorxiv.org/content/10.1101/2022.06.16.496448v2.full.pdf>`_ - G. Gorin, MT. Carilli, T. Chari, and L. Pachter, 2022.
+.. dropdown:: `Spectral neural approximations for models of transcriptional dynamics <https://www.biorxiv.org/content/10.1101/2022.06.16.496448v2.full.pdf>`_ - G. Gorin, M. Carilli, T. Chari, and L. Pachter, 2022.
 
   .. grid:: 2
 
