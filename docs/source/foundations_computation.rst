@@ -21,7 +21,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
                 .. grid-item-card:: The telegraph model
 
-                    .. image:: ./figures/Peccound_1995.png
+                    .. image:: ./figures/Peccoud_1995.png
                         :width: 300
                         :align: center
                         :alt: some text
@@ -53,12 +53,9 @@ Here we list a few reference papers on the theory and simulation of the chemical
                         :align: center
                         :alt: some text
 
-.. dropdown:: `Jahnke and Huisinga, 2007. Solving the chemical master equation for monomolecular reaction systems analytically. <https://doi.org/10.1007/s00285-006-0034-x>`_
-
-            .. grid:: 2
-
-                .. grid-item:: 
-                    This article derives the exact solution formula for the chemical master equations of monomolecular reaction systems. It shows that the solutions can be expressed as a convolution of multinomial and product Poisson distributions, with time-dependent parameters evolving according to traditional reaction-rate equations.
+.. dropdown:: `Jahnke and Huisinga, 2007. Solving the chemical master equation for monomolecular reaction systems analytically. <https://doi.org/10.1007/s00285-006-0034-x>`_ 
+            
+            This article derives the exact solution formula for the chemical master equations of monomolecular reaction systems. It shows that the solutions can be expressed as a convolution of multinomial and product Poisson distributions, with time-dependent parameters evolving according to traditional reaction-rate equations.
 
 .. dropdown:: `Booth et. al., 2007. A stochastic model of gene regulation using the chemical master equation. <https://doi.org/10.1007/978-0-8176-4558-8_7>`_
             
@@ -127,10 +124,11 @@ Here we list a few reference papers on the theory and simulation of the chemical
                                     :alt: some text
                         
 .. dropdown:: `Thomas et al., 2014. Phenotypic switching in gene regulatory networks. <https://doi.org/10.1073/pnas.140004911>`_
+
             .. grid:: 2
             
                 .. grid-item:: 
-                    This article extended linear noise approximation (LNA) to conditional LNA, which 
+                    This article extended linear noise approximation (LNA) to conditional LNA. 
                 
                 .. grid-item-card:: The model for a gene regulatory feedback loop
             
