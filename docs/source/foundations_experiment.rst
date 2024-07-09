@@ -13,7 +13,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                 
                     In this article, Elowitz et. al. measured and decomposed intrinsic and extrinsic noise in gene expression. They constructed *E coli* expressing two fluorescent proteins (cfp and yfp) controlled by identical promoters. The the relative difference in fluorescence intensity of the two reporter proteins in the same cell represents intrinsic noise while the correlated fluctuation of two protein represents extrinsic noise.
 
-                .. grid-item-card:: Fig 1 Intrinsic and extrinsic noise
+                .. grid-item-card:: Fig 1. Intrinsic and extrinsic noise
 
                     .. image:: ./figures/Elowitz_2002.png
                         :width: 300
@@ -29,7 +29,7 @@ Here we list a few foundational experimental works in studying transcriptional m
                 
                     This article measured mRNA levels in individual Escherichia coli cells and demonstrated that transcription occurs in quantal bursts. They also confirmed that the burst sizes are geometrically distributed and the time intervals between bursts are exponentially distributed, which are expected from a two state telegraph model. 
 
-                .. grid-item-card:: Fig 3A Estimated Number of Transcripts per Cell.
+                .. grid-item-card:: Fig 3A. Estimated Number of Transcripts per Cell.
 
                     .. image:: ./figures/Golding_2005.png
                         :width: 300
@@ -107,7 +107,7 @@ Here we list a few foundational experimental works in studying transcriptional m
 
                 .. grid-item-card:: Graphical Abstract
 
-                    .. image:: ./figures/PM_2015.jpeg
+                    .. image:: ./figures/PM_2015.png
                         :width: 300
                         :align: center
                         :alt: some text
