@@ -14,7 +14,7 @@ Model Definition (+ noise)
 
     .. grid-item::  Explores the transient and delay aspects of chemical master equations, contributing to the understanding of dynamic biochemical systems.
 
-    .. grid-item::  
+    .. grid-item-card::  
 
       .. image:: ./figures/transient_CME.png
                         :width: 250
@@ -28,7 +28,7 @@ Model Definition (+ noise)
 
             .. grid-item:: Proposes a new modeling approach for transcriptional noise, enhancing the interpretability and utility of single-molecule quantification experiments.
 
-            .. grid-item::  
+            .. grid-item-card::  
 
               .. image:: ./figures/int_tractable.png
                         :width: 250
@@ -42,7 +42,7 @@ Model Definition (+ noise)
             .. grid-item:: Develops a chemical master equation framework to model the bursty nature of transcription and splicing processes.
 
 
-            .. grid-item::  
+            .. grid-item-card::  
 
               .. image:: ./figures/bursty_CME.png
                         :width: 250
@@ -56,7 +56,7 @@ Model Definition (+ noise)
             .. grid-item:: Investigates the length biases present in single-cell RNA sequencing data, particularly in the context of pre-mRNA.
 
 
-            .. grid-item::  
+            .. grid-item-card::  
 
               .. image:: ./figures/length_bias.png
                         :width: 250
@@ -69,7 +69,7 @@ Model Definition (+ noise)
 
             .. grid-item:: Differentiates between intrinsic and extrinsic noise in mRNA production using a comprehensive model involving synthesis, export, and degradation.
 
-            .. grid-item::  
+            .. grid-item-card::  
 
               .. image:: ./figures/intr_extr_noise.png
                         :width: 300
