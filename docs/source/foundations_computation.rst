@@ -1,6 +1,6 @@
 .. _computation:
 
-Computation of Molecular, Cellular, and Transcriptional Dynamics
+Theory and Computation of Transcriptional Dynamics
 ================================================================= 
 Here we list a few reference papers on the theory and simulation of the chemical master equation as well as its application in stochastic modeling of gene expression.
 
