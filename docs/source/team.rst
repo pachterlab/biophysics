@@ -1,7 +1,7 @@
 Our Team
 =========================================
 
-Meet the Pachter Lab Biophysics Team!
+Meet the `Pachter Lab <https://pachterlab.github.io/>`_ Biophysics Team!
 
 Current
 ---------------
@@ -35,6 +35,11 @@ Current
 **Kayla Jackson**
 
     Graduate student
+
+
+**Charlene Kim**
+
+    Lab Manager
 
 
 **Conrad Oakes**
