@@ -15,25 +15,25 @@ Literature citations for papers relevant to our packages, methods, and approach
     .. grid-item-card:: Modeling
        :link: modeling
        :link-type: ref
-       :text-align: center
+       :text-align: center;
 
    
     .. grid-item-card:: Parameter Inference
        :link: parameterinference
        :link-type: ref
-       :text-align: center
+       :text-align: center;
 
    
     .. grid-item-card:: Clustering
        :link: clustering
        :link-type: ref
-       :text-align: center
+       :text-align: center;
 
    
     .. grid-item-card:: Trajectory Inference
        :link: trajectoryinference
        :link-type: ref
-       :text-align: center
+       :text-align: center;
 
 
 .. toctree::
