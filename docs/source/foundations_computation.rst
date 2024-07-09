@@ -21,7 +21,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
             .. grid:: 2
 
                 .. grid-item:: 
-                    This article studied the telegraph model of transcription. They studies properties of the systems and derived an analytical solution.
+                    This article studied the telegraph model of transcription. They studies properties of the systems and derived an analytical steady state solution.
 
                 .. grid-item-card:: The telegraph model
 
