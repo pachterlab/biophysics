@@ -6,15 +6,11 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
 .. dropdown:: Gillespie, 1976. `A general method for numerically simulating the stochastic time evolution of coupled chemical reactions. <https://doi.org/10.1016/0021-9991(76)90041-3>`_
 
-            .. grid:: 1
-
-                .. grid-item:: In this article, Gillespie described the Stochastic Simulation Algorithm (Gillespie algorithm).
+            In this article, Gillespie described the Stochastic Simulation Algorithm (Gillespie algorithm).
 
 .. dropdown:: Gardiner and Chaturvedi, 1977. `The Poisson Representation. I. A New Technique for Chemical Master Equations. <https://doi.org/10.1007/BF01014349>`_
 
-            .. grid:: 1
-
-                .. grid-item:: In this article, Gardiner and Chaturvedi introduced the Poisson representation which expresses the probability distribution as a convolution of Poisson distributions. This representation transforms chemical master equations into Fokker-Planck and stochastic differential equations and leads to a simple expression of chemical equilibrium states.
+            In this article, Gardiner and Chaturvedi introduced the Poisson representation which expresses the probability distribution as a convolution of Poisson distributions. This representation transforms chemical master equations into Fokker-Planck and stochastic differential equations and leads to a simple expression of chemical equilibrium states.
 
 .. dropdown:: Peccoud and Ycart, 1995. `Markovian Modeling of Gene-Product Synthesis. <https://doi.org/10.1006/tpbi.1995.1027>`_
 
@@ -32,22 +28,16 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
 .. dropdown:: Gillespie, 2000. `The chemical Langevin equation. <https://doi.org/10.1063/1.481811>`_
 
-            .. grid:: 1
-
-                .. grid-item:: Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
+            In this article, Gillespie derived the chemical Langevin equation (CLE) from the chemical master equation (CME) based on the existence of a timescale with certain properties. In particular, the two properties are: 1) the timescale is small enough that the change in the state will be so slight and the propensity functions do not changes appreciably; 2) the timescale is large enough that the expected number of occurrences of each reaction channel will be much larger than 1.
 
 
 .. dropdown:: Gillespie, 2001. `Approximate accelerated stochastic simulation of chemically reacting systems. <https://doi.org/10.1063/1.1378322>`_
             
-            .. grid:: 1
-
-                .. grid-item:: In this article, Gillespie proposed the "τ-leap" method for Gillespie algorithm. It finds a time τ that is small enough that the change in the state and propensity function are negligible. Therefore, in this time interval, the propensity function will be essentially constant and the number of times a reaction channel fires will be a Poisson random variable.
+            In this article, Gillespie proposed the "τ-leap" method for Gillespie algorithm. It finds a time τ that is small enough that the change in the state and propensity function are negligible. Therefore, in this time interval, the propensity function will be essentially constant and the number of times a reaction channel fires will be a Poisson random variable.
 
 .. dropdown:: Paulsson, 2004. `Summing up the noise in gene networks. <https://doi.org/10.1038/nature02257>`_
 
-            .. grid:: 1
-            
-            .. grid-item:: In this article, Paulsson used fluctuation-dissipation theorem to derive an equation for second order noise. The equation depends on kinetic orders of reactions and unified results from a few studies of gene expression noise.
+            In this article, Paulsson used fluctuation-dissipation theorem to derive an equation for second order noise. The equation depends on kinetic orders of reactions and unified results from a few studies of gene expression noise.
 
 .. dropdown:: Munsky and Khammash, 2006. `The finite state projection algorithm for the solution of the chemical master equation. <https://doi.org/10.1063/1.2145882>`_
 
@@ -72,9 +62,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
 .. dropdown:: Booth et. al., 2007. `A stochastic model of gene regulation using the chemical master equation. <https://doi.org/10.1007/978-0-8176-4558-8_7>`_
             
-            .. grid:: 1
-
-                .. grid-item:: This chapter describes a hybrid deterministic/stochastic simulation for chemical master equation in combination with chemical rate equations, which is applied to study genetic regulatory networks in prokaryotes: states of the gene represent the binding and unbinding of protein complexes to DNA are modeled using the master equation, while protein and substrate concentrations are represented by continuum variables modeled by differential equations.
+            This chapter describes a hybrid deterministic/stochastic simulation for chemical master equation in combination with chemical rate equations, which is applied to study genetic regulatory networks in prokaryotes: states of the gene represent the binding and unbinding of protein complexes to DNA are modeled using the master equation, while protein and substrate concentrations are represented by continuum variables modeled by differential equations.
 
 
 .. dropdown:: Shahrezaei and Swain, 2008. `Analytical distributions for stochastic gene expression. <www.pnas.org/cgi/doi/10.1073/pnas.0803850105>`_
