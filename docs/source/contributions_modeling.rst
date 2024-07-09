@@ -8,7 +8,7 @@ Model Definition (+ noise)
   :alt: Elephant-shaped embeddings
 
 
-.. dropdown:: `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida,and L. Pachter, 2022.
+.. dropdown:: `Transient and delay chemical master equations <https://doi.org/10.1101/2022.10.17.512599>`_ - G. Gorin, S. Yoshida, and L. Pachter, 2022.
 
   .. grid:: 2
 
