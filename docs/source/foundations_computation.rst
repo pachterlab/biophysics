@@ -47,14 +47,12 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
                     This article introduced the finite state projection (FSP) method to directly solves or approximates the solution of the chemical master equation. If there are only a finite number of reachable states, the exact soluiton can be computed using matrix exponentials. When there are infinite or extremely large number of reachable states, the state space is projected onto finite space, and the authors provided an estimation of accuracy of the truncated space approximation.
 
-                .. grid-item-card::
+                .. grid-item-card:: Fig 1. Conceptual figure for the finite state projection method.
 
                     .. image:: ./figures/Munsky_2006.jpeg
                         :width: 300
                         :align: center
                         :alt: some text
-                    
-                    Fig 1. Conceptual figure for the finite state projection method.
 
 .. dropdown:: `Solving the chemical master equation for monomolecular reaction systems analytically. <https://doi.org/10.1007/s00285-006-0034-x>`_  Jahnke and Huisinga, 2007. 
             
@@ -74,14 +72,13 @@ Here we list a few reference papers on the theory and simulation of the chemical
                     This article used time-scale difference of mRNA and protein decay to derive an approximation of protein distribution under the two-stage (constitutive) and three-stage (telegraph) model.
                 
 
-                .. grid-item-card:: 
+                .. grid-item-card:: Fig 3. Predictions and simulations for a three-stage model of gene expression.
 
                     .. image:: ./figures/Swain_2008.png
                         :width: 300
                         :align: center
                         :alt: some text
-                        
-                        Fig 3. Predictions and simulations for a three-stage model of gene expression. 
+
 
 .. dropdown:: `Consequences of mRNA transport on stochastic variability in protein levels. <https://doi.org/10.1016/j.bpj.2012.07.015>`_ Singh and Bokes, 2012. 
 
@@ -91,14 +88,12 @@ Here we list a few reference papers on the theory and simulation of the chemical
                     This article derived the analytical solution of bursty model via probability generating function methods. They studied the effects of pre-mRNA export on mRNA and protein levels, and concluded that export step can reduce variability at mRNA level but not protein level.
                 
 
-                .. grid-item-card:: 
+                .. grid-item-card:: Fig 1. Schematic of the gene expression model.
 
                     .. image:: ./figures/Singh_2012.jpeg
                         :width: 300
                         :align: center
                         :alt: some text
-                        
-                        Fig 1. Schematic of the gene expression model.
 
 .. dropdown:: `Steady-state fluctuations of a genetic feedback loop: An exact solution. <https://doi.org/10.1063/1.4736721>`_ Grima et al., 2012. 
 
@@ -108,14 +103,13 @@ Here we list a few reference papers on the theory and simulation of the chemical
 
                     This article derived the exact steady-state solution of the chemical master equation for a gene regulatory feedback loop
                 
-                .. grid-item-card::
+                .. grid-item-card:: The model for a gene regulatory feedback loop
             
                                 .. image:: ./figures/Grima_2012.png
                                     :width: 300
                                     :align: center
                                     :alt: some text
-
-                                    The model for a gene regulatory feedback loop
+       
                         
 .. dropdown:: `Phenotypic switching in gene regulatory networks. <https://doi.org/10.1073/pnas.140004911>`_ Thomas et al., 2014. 
 
@@ -124,11 +118,10 @@ Here we list a few reference papers on the theory and simulation of the chemical
                 .. grid-item:: 
                     This article extended linear noise approximation (LNA) to conditional LNA. 
                 
-                .. grid-item-card::
+                .. grid-item-card:: Fig 2. Binary promoter switching.
             
                                 .. image:: ./figures/Thomas_2014.png
                                     :width: 300
                                     :align: center
                                     :alt: some text
-
-                                    Fig 2. Binary promoter switching.
+          
