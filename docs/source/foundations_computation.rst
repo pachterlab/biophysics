@@ -124,4 +124,19 @@ Here we list a few reference papers on the theory and simulation of the chemical
                                     :width: 300
                                     :align: center
                                     :alt: some text
+.. dropdown:: `bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data <https://doi.org/10.1093/bioinformatics/btz726>`_ - W. Tang et al., 2020. 
+
+            .. grid:: 2
+            
+                .. grid-item:: 
+                    This article introduced bayNorm, which uses Bayesian approach to model scRNA-seq gene expression.
+Negative binomial and binomial distribution are used to model biological variance and technical variance. Based on the model, bayNorm eanbles global scaling normalization, imputation and count recovery of scRNA-seq data.     
+
+                .. grid-item-card:: Fig 1. A binomial model of mRNA capture.
+            
+                                .. image:: ./figures/Tang_2020.jpeg
+                                    :width: 300
+                                    :align: center
+                                    :alt: some text
           
+
