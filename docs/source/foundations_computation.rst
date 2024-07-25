@@ -109,7 +109,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
                                     :width: 300
                                     :align: center
                                     :alt: some text
-       
+
                         
 .. dropdown:: `Phenotypic switching in gene regulatory networks <https://doi.org/10.1073/pnas.140004911>`_ - P. Thomas et al., 2014. 
 
@@ -124,11 +124,17 @@ Here we list a few reference papers on the theory and simulation of the chemical
                                     :width: 300
                                     :align: center
                                     :alt: some text
+
+.. dropdown:: `Chemical Langevin equation: A path-integral view of Gillespie's derivation <https://doi.org/10.1103/PhysRevE.101.032417>`_ - J. Vastola, and W. Holmes, 2020. 
+
+            This article describes an original path-integral description of the CME and show how Gillespie's two conditions leads to a path-integral equivalent to the CLE. We compare this approach to the path-integral equivalent of a large system size derivation and show that they are qualitatively different.
+
 .. dropdown:: `bayNorm: Bayesian gene expression recovery, imputation and normalization for single-cell RNA-sequencing data <https://doi.org/10.1093/bioinformatics/btz726>`_ - W. Tang et al., 2020. 
 
             .. grid:: 2
             
                 .. grid-item:: 
+
                     This article introduced bayNorm, which uses Bayesian approach to model scRNA-seq gene expression.
 Negative binomial and binomial distribution are used to model biological variance and technical variance. Based on the model, bayNorm eanbles global scaling normalization, imputation and count recovery of scRNA-seq data.     
 
@@ -145,6 +151,7 @@ Negative binomial and binomial distribution are used to model biological varianc
             .. grid:: 2
             
                 .. grid-item:: 
+
                     This article describes a model for scRNA-seq data. They assume a telegraph model with a transcription rate proportional to the cell size for gene expression and a binomial distribution for capture. They also compare four different inference methods for kinetic parameters: MLE, methods of moments estimation (MME), an Approximate Bayesian Computation (ABC) rejection sampling algorithm, and using direct likelihood-free inference based on a neural network (NN) implementation.
 
                 .. grid-item-card:: Fig 1. Model of stochastic gene expression.
