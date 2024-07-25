@@ -135,8 +135,7 @@ Here we list a few reference papers on the theory and simulation of the chemical
             
                 .. grid-item:: 
 
-                    This article introduced bayNorm, which uses Bayesian approach to model scRNA-seq gene expression.
-Negative binomial and binomial distribution are used to model biological variance and technical variance. Based on the model, bayNorm eanbles global scaling normalization, imputation and count recovery of scRNA-seq data.     
+                    This article introduced bayNorm, which uses Bayesian approach to model scRNA-seq gene expression. Negative binomial and binomial distribution are used to model biological variance and technical variance. Based on the model, bayNorm eanbles global scaling normalization, imputation and count recovery of scRNA-seq data.     
 
                 .. grid-item-card:: Fig 1. A binomial model of mRNA capture.
             
