@@ -140,3 +140,16 @@ Negative binomial and binomial distribution are used to model biological varianc
                                     :alt: some text
           
 
+.. dropdown:: `Modelling capture efficiency of single-cell RNA-sequencing data improves inference of transcriptome-wide burst kinetics <https://doi.org/10.1093/bioinformatics/btad395>`_ - W. Tang et al., 2023. 
+
+            .. grid:: 2
+            
+                .. grid-item:: 
+                    This article describes a model for scRNA-seq data. They assume a telegraph model with a transcription rate proportional to the cell size for gene expression and a binomial distribution for capture. They also compare four different inference methods for kinetic parameters: MLE, methods of moments estimation (MME), an Approximate Bayesian Computation (ABC) rejection sampling algorithm, and using direct likelihood-free inference based on a neural network (NN) implementation.
+
+                .. grid-item-card:: Fig 1. Model of stochastic gene expression.
+            
+                                .. image:: ./figures/Tang_2023.jpeg
+                                    :width: 300
+                                    :align: center
+                                    :alt: some text
